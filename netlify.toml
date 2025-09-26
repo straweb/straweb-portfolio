@@ -1,5 +1,6 @@
 [build]
   command="ng build"
+  functions = "netlify/functions"
   publish="dist/straweb-portfolio/browser"
 
 [[redirects]]
