@@ -15,4 +15,7 @@
     enable = true
 
   [plugins.inputs]
+      # Optional: Configure inputs for the plugin
+      # For example, to specify a base URL for Cypress to test against
+    cypress_base_url = "http://localhost:4200"
     enable = false
