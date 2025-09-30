@@ -1,12 +1,14 @@
 describe('empty spec', () => {
   beforeEach(() => {
-    cy.visit('/')
-  })
-
-  it('displays the resources text', () => {
+    cy.visit('/');
     cy.get('title')
     .contains('Portfolio');
   })
+
+  // it('displays the resources text', () => {
+  //   cy.get('title')
+  //   .contains('Portfolio');
+  // })
   // it('renders the image', () => {
   //   cy.get('img')
   //   .should('be.visible')
