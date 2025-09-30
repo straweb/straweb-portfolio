@@ -7,7 +7,7 @@ import { MatTooltipModule } from '@angular/material/tooltip';
 import { DialogContentComponent } from '../../components/dialog-box/dialog-content/dialog-content.component';
 import { SkillDetailsComponent } from '../../components/dialog-box/skill-details/skill-details.component';
 import { FilterByItemKeyPipe } from '../../filters/filter-by-item-key-pipe';
-import { ImageFallbackDirective } from '../../directives/ImageFallback.directive';
+import { ImageFallbackDirective } from '../../directives/image-fallback.directive';
 
 
 @NgModule({
@@ -35,8 +35,8 @@ import { ImageFallbackDirective } from '../../directives/ImageFallback.directive
     MyCustomFiltersPipe,
     ImageFallbackDirective,
     FilterPipe,
-    DialogContentComponent,
-    SkillDetailsComponent,
+    // DialogContentComponent,
+    // SkillDetailsComponent,
     MatDialogModule,
     MatTooltipModule,
     CommonModule

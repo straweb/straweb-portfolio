@@ -4,10 +4,13 @@ import { provideRouter } from '@angular/router';
 
 import { routes } from './app.routes';
 import { provideClientHydration, withEventReplay } from '@angular/platform-browser';
-import { FilterPipe } from '../filters/filter.pipe';
-import { MyCustomFiltersPipe } from '../filters/my-custom-filters-pipe';
+// import { FilterPipe } from '../filters/filter.pipe';
+// import { MyCustomFiltersPipe } from '../filters/my-custom-filters-pipe';
 import { UtilitiesModule } from '../modules/utilities/utilities-module';
-import { FilterByItemKeyPipe } from '../filters/filter-by-item-key-pipe';
+// import { FilterByItemKeyPipe } from '../filters/filter-by-item-key-pipe';
+// import { DialogContentComponent } from '../components/dialog-box/dialog-content/dialog-content.component';
+// import { SkillDetailsComponent } from '../components/dialog-box/skill-details/skill-details.component';
+import { CommonModule } from '@angular/common';
 // import { authInterceptor } from '../core/auth-interceptor';
 
 export const appConfig: ApplicationConfig = {
@@ -18,9 +21,7 @@ export const appConfig: ApplicationConfig = {
     // provideHttpClient(withInterceptors([authInterceptor])),
     provideHttpClient(withFetch()),
     importProvidersFrom(UtilitiesModule),
-    importProvidersFrom(FilterPipe),
-    importProvidersFrom(FilterByItemKeyPipe),
-    importProvidersFrom(MyCustomFiltersPipe),
+    // importProvidersFrom(FilterByItemKeyPipe),
     // importProvidersFrom(BrowserAnimationsModule),
     // importProvidersFrom(MaterialExampleModule),
     // importProvidersFrom(MatDialogModule),
@@ -29,7 +30,7 @@ export const appConfig: ApplicationConfig = {
     // importProvidersFrom(SkillDetailsComponent),
     // importProvidersFrom(MyCustomFiltersPipe),
     // importProvidersFrom(FilterPipe),
-    // importProvidersFrom(CommonModule),
+    importProvidersFrom(CommonModule),
     // importProvidersFrom(FormsModule),
     // importProvidersFrom(ReactiveFormsModule),
     // importProvidersFrom(MatFormFieldModule),
@@ -46,6 +47,7 @@ export const appConfig: ApplicationConfig = {
     // importProvidersFrom(MatGridListModule),
     // importProvidersFrom(MatMenuModule),  
     // importProvidersFrom(HttpClientModule),
-    provideClientHydration(withEventReplay())
+    provideClientHydration(withEventReplay()),
+    provideZonelessChangeDetection()
   ]
 };

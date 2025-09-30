@@ -17,7 +17,7 @@ export class ImageDirective implements AfterViewInit {
         };
 
         img.onerror = () => {
-            // Set a placeholder image 
+            // Set a placeholder image
             this.setImage('assets/placeholder.png');
         };
 
