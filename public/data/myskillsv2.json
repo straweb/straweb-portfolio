@@ -1,0 +1,4687 @@
+[
+    {
+        "userId": 1,
+        "name": "Adobe AIR",
+        "websiteUrl": "https://www.adobe.com/air.html",
+        "tag": "Adobe AIR",
+        "hashtags": [
+            "#AdobeAIR",
+            "#RIA"
+        ],
+        "tags": [
+            "runtime",
+            "cross-platform",
+            "desktop",
+            "mobile"
+        ],
+        "kind": "Runtime Environment",
+        "keywords": [
+            "Adobe AIR",
+            "desktop apps",
+            "mobile apps",
+            "Flash"
+        ],
+        "category": "Development Platform",
+        "popularity": 70,
+        "score": 8,
+        "rank": 50,
+        "version": "33.1.1",
+        "logo": "https://www.adobe.com/content/dam/cc/icons/air.svg",
+        "favicon": "https://www.adobe.com/favicon.ico",
+        "credits": "Developed by Adobe Inc.",
+        "owner": "Adobe Inc.",
+        "foundedIn": "2008",
+        "shortDescription": "Cross-platform runtime for desktop and mobile applications.",
+        "overview": "Allows developers to use web technologies to build rich applications running outside browsers.",
+        "tutorialURLs": [
+            "https://helpx.adobe.com/air/tutorials.html"
+        ],
+        "screenshots": [
+            "https://helpx.adobe.com/content/dam/help/en/air/air-screenshot-1.png"
+        ],
+        "images": [
+            "https://www.adobe.com/content/dam/cc/icons/air.svg"
+        ],
+        "index": 1
+    },
+    {
+        "userId": 2,
+        "name": "Ethereum",
+        "websiteUrl": "https://ethereum.org",
+        "tag": "Ethereum",
+        "hashtags": [
+            "#Ethereum",
+            "#Blockchain",
+            "#SmartContracts"
+        ],
+        "tags": [
+            "blockchain",
+            "decentralized",
+            "crypto"
+        ],
+        "kind": "Blockchain Platform",
+        "keywords": [
+            "Ethereum",
+            "smart contracts",
+            "dApps",
+            "cryptocurrency"
+        ],
+        "category": "Blockchain",
+        "popularity": 95,
+        "score": 9.5,
+        "rank": 10,
+        "version": "2.0 (Beacon Chain)",
+        "logo": "https://ethereum.org/static/6a74e99d2d4e9a71b3d3e3fecd8b1209/31987/eth-diamond-purple.png",
+        "favicon": "https://ethereum.org/favicon.ico",
+        "credits": "Developed by Ethereum Foundation, led by Vitalik Buterin.",
+        "owner": "Ethereum Foundation",
+        "foundedIn": "2015",
+        "shortDescription": "Open-source blockchain platform supporting smart contracts.",
+        "overview": "Supports decentralized applications and smart contracts enabling blockchain innovation.",
+        "tutorialURLs": [
+            "https://ethereum.org/en/developers/tutorials/"
+        ],
+        "screenshots": [
+            "https://ethereum.org/static/759cc2b7bbf98bd318f64454097bd1db/37ebf/screenshot-eth.svg"
+        ],
+        "images": [
+            "https://ethereum.org/static/6a74e99d2d4e9a71b3d3e3fecd8b1209/31987/eth-diamond-purple.png"
+        ],
+        "index": 2
+    },
+    {
+        "userId": 3,
+        "name": "Amazon Web Services (AWS)",
+        "websiteUrl": "https://aws.amazon.com",
+        "tag": "AWS",
+        "hashtags": [
+            "#AWS",
+            "#Cloud",
+            "#CloudComputing"
+        ],
+        "tags": [
+            "cloud",
+            "infrastructure",
+            "services"
+        ],
+        "kind": "Cloud Services Platform",
+        "keywords": [
+            "AWS",
+            "cloud",
+            "infrastructure",
+            "SaaS",
+            "IaaS"
+        ],
+        "category": "Cloud Computing",
+        "popularity": 98,
+        "score": 9.7,
+        "rank": 1,
+        "version": "N/A",
+        "logo": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+        "favicon": "https://aws.amazon.com/favicon.ico",
+        "credits": "Owned and operated by Amazon",
+        "owner": "Amazon",
+        "foundedIn": "2006",
+        "shortDescription": "Comprehensive cloud computing services platform.",
+        "overview": "Offers scalable cloud infrastructure, services like computing power, storage, and databases.",
+        "tutorialURLs": [
+            "https://aws.amazon.com/getting-started/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 3
+    },
+    {
+        "userId": 4,
+        "name": "Salesforce",
+        "websiteUrl": "https://www.salesforce.com",
+        "tag": "Salesforce",
+        "hashtags": [
+            "#Salesforce",
+            "#CRM",
+            "#Cloud"
+        ],
+        "tags": [
+            "CRM",
+            "cloud",
+            "enterprise"
+        ],
+        "kind": "Customer Relationship Management",
+        "keywords": [
+            "CRM",
+            "customer management",
+            "sales automation"
+        ],
+        "category": "CRM Software",
+        "popularity": 90,
+        "score": 9.2,
+        "rank": 5,
+        "version": "Winter '25",
+        "logo": "https://www.salesforce.com/content/dam/web/en_us/www/images/logos/salesforce-logo.svg",
+        "favicon": "https://www.salesforce.com/favicon.ico",
+        "credits": "Salesforce Inc.",
+        "owner": "Salesforce Inc.",
+        "foundedIn": "1999",
+        "shortDescription": "Leading cloud-based CRM platform.",
+        "overview": "Helps businesses manage their customer relationships, sales, and marketing activities.",
+        "tutorialURLs": [
+            "https://trailhead.salesforce.com/en/content/learn/modules/starting_salesforce"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 4
+    },
+    {
+        "userId": 5,
+        "name": "MongoDB",
+        "websiteUrl": "https://www.mongodb.com",
+        "tag": "MongoDB",
+        "hashtags": [
+            "#MongoDB",
+            "#NoSQL",
+            "#Database"
+        ],
+        "tags": [
+            "NoSQL",
+            "database",
+            "document store"
+        ],
+        "kind": "Database",
+        "keywords": [
+            "MongoDB",
+            "NoSQL",
+            "document database",
+            "scalable"
+        ],
+        "category": "Database",
+        "popularity": 85,
+        "score": 8.5,
+        "rank": 15,
+        "version": "6.0",
+        "logo": "https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png",
+        "favicon": "https://www.mongodb.com/favicon.ico",
+        "credits": "MongoDB Inc.",
+        "owner": "MongoDB Inc.",
+        "foundedIn": "2007",
+        "shortDescription": "Popular open source NoSQL document database.",
+        "overview": "Stores data in JSON-like documents for high scalability and flexibility.",
+        "tutorialURLs": [
+            "https://docs.mongodb.com/manual/tutorial/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 5
+    },
+    {
+        "userId": 6,
+        "name": "Smart Contracts in Solidity",
+        "websiteUrl": "https://docs.soliditylang.org/",
+        "tag": "Solidity",
+        "hashtags": [
+            "#Solidity",
+            "#SmartContracts",
+            "#Ethereum"
+        ],
+        "tags": [
+            "smart contracts",
+            "blockchain",
+            "Ethereum",
+            "Solidity"
+        ],
+        "kind": "Programming Language",
+        "keywords": [
+            "Solidity",
+            "smart contracts",
+            "Ethereum",
+            "blockchain programming"
+        ],
+        "category": "Blockchain Development",
+        "popularity": 90,
+        "score": 9,
+        "rank": 15,
+        "version": "0.8.x",
+        "logo": "https://docs.soliditylang.org/en/v0.8.21/_static/logo.svg",
+        "favicon": "https://docs.soliditylang.org/en/favicon.ico",
+        "credits": "Developed by Ethereum community",
+        "owner": "Ethereum Foundation",
+        "foundedIn": "2014",
+        "shortDescription": "A contract-oriented programming language for writing smart contracts on Ethereum.",
+        "overview": "Solidity is the most popular language for writing smart contracts on the Ethereum blockchain enabling decentralized application development.",
+        "tutorialURLs": [
+            "https://docs.soliditylang.org/en/latest/",
+            "https://ethereum.org/en/developers/tutorials/"
+        ],
+        "screenshots": [],
+        "images": [
+            "https://docs.soliditylang.org/en/v0.8.21/_static/logo.svg"
+        ],
+        "index": 6
+    },
+    {
+        "userId": 7,
+        "name": "Blockchain",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Blockchain",
+        "tag": "Blockchain",
+        "hashtags": [
+            "#Blockchain",
+            "#Decentralized",
+            "#Cryptocurrency"
+        ],
+        "tags": [
+            "blockchain",
+            "decentralized ledger",
+            "cryptocurrency",
+            "distributed ledger"
+        ],
+        "kind": "Technology",
+        "keywords": [
+            "blockchain",
+            "distributed ledger",
+            "decentralized",
+            "cryptocurrency"
+        ],
+        "category": "Distributed Ledger Technology",
+        "popularity": 95,
+        "score": 9.3,
+        "rank": 12,
+        "version": "General Concept",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Blockchain.svg/1200px-Blockchain.svg.png",
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "credits": "Concept originated from Satoshi Nakamoto's Bitcoin whitepaper.",
+        "owner": "Open Source / Community",
+        "foundedIn": "2008",
+        "shortDescription": "A distributed ledger technology enabling secure and transparent transactions.",
+        "overview": "Blockchain technology provides a decentralized, secure, and immutable ledger used widely for cryptocurrencies and beyond.",
+        "tutorialURLs": [
+            "https://www.blockchain.com/learning-portal",
+            "https://ethereum.org/en/developers/docs/"
+        ],
+        "screenshots": [],
+        "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Blockchain.svg/1200px-Blockchain.svg.png"
+        ],
+        "index": 7
+    },
+    {
+        "userId": 8,
+        "name": "Etherscan API",
+        "websiteUrl": "https://etherscan.io/apis",
+        "tag": "Etherscan API",
+        "hashtags": [
+            "#Etherscan",
+            "#API",
+            "#Ethereum"
+        ],
+        "tags": [
+            "etherscan",
+            "blockchain explorer",
+            "API",
+            "Ethereum"
+        ],
+        "kind": "API",
+        "keywords": [
+            "Etherscan",
+            "API",
+            "etherscan API",
+            "Ethereum blockchain data"
+        ],
+        "category": "Blockchain Tools",
+        "popularity": 85,
+        "score": 8.9,
+        "rank": 40,
+        "version": "v1",
+        "logo": "https://etherscan.io/images/brandassets/etherscan-logo-circle.svg",
+        "favicon": "https://etherscan.io/favicon.ico",
+        "credits": "Developed and maintained by Etherscan developers.",
+        "owner": "Etherscan",
+        "foundedIn": "2015",
+        "shortDescription": "API to interact with Ethereum blockchain data on Etherscan.",
+        "overview": "Etherscan API allows developers to programmatically access Ethereum blockchain data such as transactions, blocks, contracts, and tokens.",
+        "tutorialURLs": [
+            "https://docs.etherscan.io/"
+        ],
+        "screenshots": [],
+        "images": [
+            "https://etherscan.io/images/brandassets/etherscan-logo-circle.svg"
+        ],
+        "index": 8
+    },
+    {
+        "userId": 9,
+        "name": ".NET Nethereum",
+        "websiteUrl": "https://nethereum.com",
+        "tag": "Nethereum",
+        "hashtags": [
+            "#Nethereum",
+            "#.NET",
+            "#Ethereum"
+        ],
+        "tags": [
+            "Ethereum",
+            "Nethereum",
+            ".NET",
+            "blockchain integration"
+        ],
+        "kind": "Library",
+        "keywords": [
+            "Nethereum",
+            ".NET Ethereum library",
+            "smart contracts",
+            "blockchain"
+        ],
+        "category": "Blockchain Software",
+        "popularity": 75,
+        "score": 8.2,
+        "rank": 70,
+        "version": "4.0",
+        "logo": "https://nethereum.com/assets/img/nethereum-logo.png",
+        "favicon": "https://nethereum.com/favicon.ico",
+        "credits": "Open source library by Nethereum developers.",
+        "owner": "Nethereum",
+        "foundedIn": "2017",
+        "shortDescription": "Ethereum blockchain integration library for .NET platform.",
+        "overview": "Nethereum is a .NET library for interacting with Ethereum blockchain, supporting smart contracts, accounts, and transactions.",
+        "tutorialURLs": [
+            "https://docs.nethereum.com/en/latest/"
+        ],
+        "screenshots": [],
+        "images": [
+            "https://nethereum.com/assets/img/nethereum-logo.png"
+        ],
+        "index": 9
+    },
+    {
+        "userId": 10,
+        "name": "Customer Relationship Management (CRM)",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Customer_relationship_management",
+        "tag": "CRM",
+        "hashtags": [
+            "#CRM",
+            "#CustomerManagement",
+            "#Sales"
+        ],
+        "tags": [
+            "CRM",
+            "customer",
+            "management",
+            "sales"
+        ],
+        "kind": "Business Software",
+        "keywords": [
+            "CRM",
+            "customer relationship management",
+            "sales automation",
+            "marketing"
+        ],
+        "category": "Enterprise Software",
+        "popularity": 85,
+        "score": 8.7,
+        "rank": 25,
+        "version": "Concept",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/Customer_relationship_management_icon.svg",
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "credits": "General business software category",
+        "owner": "Various Vendors",
+        "foundedIn": "1990s",
+        "shortDescription": "Software to manage a company's interactions with customers and potential customers.",
+        "overview": "CRM software helps organizations manage customer data, sales processes, and marketing campaigns for better customer relations.",
+        "tutorialURLs": [
+            "https://www.salesforce.com/crm/what-is-crm/"
+        ],
+        "screenshots": [],
+        "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/2/25/Customer_relationship_management_icon.svg"
+        ],
+        "index": 10
+    },
+    {
+        "userId": 11,
+        "name": "ERP (Enterprise Resource Planning)",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Enterprise_resource_planning",
+        "tag": "ERP",
+        "hashtags": [
+            "#ERP",
+            "#Enterprise",
+            "#ResourcePlanning"
+        ],
+        "tags": [
+            "ERP",
+            "business software",
+            "enterprise",
+            "resource planning"
+        ],
+        "kind": "Enterprise Software",
+        "keywords": [
+            "ERP",
+            "enterprise resource planning",
+            "business management software"
+        ],
+        "category": "Enterprise Software",
+        "popularity": 88,
+        "score": 8.8,
+        "rank": 18,
+        "version": "Concept",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/ERP_icon.svg",
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "credits": "Prolific category in business software",
+        "owner": "Various Vendors",
+        "foundedIn": "1990s",
+        "shortDescription": "Business process management software to integrate core business processes.",
+        "overview": "ERP software integrates various facets of business operation including planning, purchasing, inventory, sales, marketing, finance, and HR.",
+        "tutorialURLs": [
+            "https://www.oracle.com/erp/what-is-erp/"
+        ],
+        "screenshots": [],
+        "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/3b/ERP_icon.svg"
+        ],
+        "index": 11
+    },
+    {
+        "userId": 12,
+        "name": "Event Management Software",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Event_management",
+        "tag": "Event Management Software",
+        "hashtags": [
+            "#EventManagement",
+            "#Software",
+            "#Events"
+        ],
+        "tags": [
+            "event management",
+            "software",
+            "event planning"
+        ],
+        "kind": "Business Software",
+        "keywords": [
+            "event management",
+            "event planning software",
+            "registration",
+            "ticketing"
+        ],
+        "category": "Business Productivity",
+        "popularity": 75,
+        "score": 7.5,
+        "rank": 65,
+        "version": "General",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Event_icon.svg",
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "credits": "General software category",
+        "owner": "Various Vendors",
+        "foundedIn": "2000s",
+        "shortDescription": "Software for planning, organizing, and managing events.",
+        "overview": "Event management software facilitates event planning, budgeting, scheduling, registration, and reporting.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/e/e5/Event_icon.svg"
+        ],
+        "index": 12
+    },
+    {
+        "userId": 14,
+        "name": "SAP",
+        "websiteUrl": "https://www.sap.com",
+        "tag": "SAP",
+        "hashtags": [
+            "#SAP",
+            "#ERP",
+            "#Enterprise"
+        ],
+        "tags": [
+            "ERP",
+            "enterprise software",
+            "business software"
+        ],
+        "kind": "Enterprise Software",
+        "keywords": [
+            "SAP",
+            "enterprise software",
+            "ERP",
+            "business process management"
+        ],
+        "category": "Enterprise Software",
+        "popularity": 85,
+        "score": 8.5,
+        "rank": 12,
+        "version": "S/4HANA",
+        "logo": "https://www.sap.com/dam/application/shared/logos/sap-logo.svg",
+        "favicon": "https://www.sap.com/favicon.ico",
+        "credits": "SAP SE",
+        "owner": "SAP SE",
+        "foundedIn": "1972",
+        "shortDescription": "Enterprise application software for business operations and customer relations.",
+        "overview": "SAP offers ERP and business software solutions tailored for large enterprises covering finance, HR, supply chain, and more.",
+        "tutorialURLs": [
+            "https://help.sap.com/viewer/index"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 13
+    },
+    {
+        "userId": 15,
+        "name": "Google Cloud Platform",
+        "websiteUrl": "https://cloud.google.com",
+        "tag": "Google Cloud",
+        "hashtags": [
+            "#GoogleCloud",
+            "#CloudComputing",
+            "#GCP"
+        ],
+        "tags": [
+            "cloud computing",
+            "platform",
+            "IaaS",
+            "PaaS"
+        ],
+        "kind": "Cloud Platform",
+        "keywords": [
+            "Google Cloud",
+            "IaaS",
+            "PaaS",
+            "cloud services"
+        ],
+        "category": "Cloud Computing",
+        "popularity": 92,
+        "score": 9,
+        "rank": 4,
+        "version": "N/A",
+        "logo": "https://cloud.google.com/images/social-icon-google-cloud-1200-630.png",
+        "favicon": "https://cloud.google.com/favicon.ico",
+        "credits": "Google LLC",
+        "owner": "Google LLC",
+        "foundedIn": "2008",
+        "shortDescription": "Cloud computing services platform by Google.",
+        "overview": "Offers infrastructure, platform, and software services including AI, machine learning, data analytics, and storage.",
+        "tutorialURLs": [
+            "https://cloud.google.com/docs"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 14
+    },
+    {
+        "userId": 16,
+        "name": "Microsoft Azure",
+        "websiteUrl": "https://azure.microsoft.com",
+        "tag": "Azure",
+        "hashtags": [
+            "#Azure",
+            "#CloudComputing",
+            "#Microsoft"
+        ],
+        "tags": [
+            "cloud",
+            "platform",
+            "services",
+            "IaaS",
+            "PaaS"
+        ],
+        "kind": "Cloud Platform",
+        "keywords": [
+            "Microsoft Azure",
+            "cloud",
+            "IaaS",
+            "PaaS",
+            "AI"
+        ],
+        "category": "Cloud Computing",
+        "popularity": 91,
+        "score": 9.1,
+        "rank": 3,
+        "version": "N/A",
+        "logo": "https://azurecomcdn.azureedge.net/cvt-9f5e0d4eb84ba9b76b5f9e5ab6d564049c477de528b86ddf6afba61a0a0085b0/images/page/services/azure-logo.png",
+        "favicon": "https://azure.microsoft.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft Corporation",
+        "foundedIn": "2010",
+        "shortDescription": "Cloud computing platform and services by Microsoft.",
+        "overview": "Supports building, deploying, and managing applications through Microsoft-managed data centers.",
+        "tutorialURLs": [
+            "https://docs.microsoft.com/en-us/azure/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 15
+    },
+    {
+        "userId": 17,
+        "name": "Microsoft Power BI",
+        "websiteUrl": "https://powerbi.microsoft.com",
+        "tag": "Power BI",
+        "hashtags": [
+            "#PowerBI",
+            "#BusinessIntelligence"
+        ],
+        "tags": [
+            "BI",
+            "business intelligence",
+            "analytics"
+        ],
+        "kind": "Analytics Software",
+        "keywords": [
+            "Power BI",
+            "data visualization",
+            "business intelligence",
+            "analytics"
+        ],
+        "category": "Business Intelligence",
+        "popularity": 90,
+        "score": 9,
+        "rank": 10,
+        "version": "N/A",
+        "logo": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+        "favicon": "https://powerbi.microsoft.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft Corporation",
+        "foundedIn": "2015",
+        "shortDescription": "Business analytics service providing interactive visualizations.",
+        "overview": "Enables users to create reports and dashboards to gain insights from their data.",
+        "tutorialURLs": [
+            "https://docs.microsoft.com/power-bi/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 16
+    },
+    {
+        "userId": 18,
+        "name": "Triggers",
+        "websiteUrl": "",
+        "tag": "Database Triggers",
+        "hashtags": [
+            "#Triggers",
+            "#Database"
+        ],
+        "tags": [
+            "database",
+            "triggers",
+            "automation"
+        ],
+        "kind": "Database Feature",
+        "keywords": [
+            "database triggers",
+            "stored procedures",
+            "automation"
+        ],
+        "category": "Database",
+        "popularity": 70,
+        "score": 7,
+        "rank": 80,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Database management systems",
+        "owner": "Various Vendors",
+        "foundedIn": "",
+        "shortDescription": "Database operations automatically triggered by events.",
+        "overview": "Triggers are special procedures in databases that automatically execute on certain events like insert, update, or delete.",
+        "tutorialURLs": [
+            "https://www.postgresql.org/docs/current/plpgsql-trigger.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 17
+    },
+    {
+        "userId": 19,
+        "name": "MS Access",
+        "websiteUrl": "https://www.microsoft.com/en-us/microsoft-access",
+        "tag": "MS Access",
+        "hashtags": [
+            "#MSAccess",
+            "#Database"
+        ],
+        "tags": [
+            "database",
+            "desktop database",
+            "Microsoft Access"
+        ],
+        "kind": "Database Software",
+        "keywords": [
+            "MS Access",
+            "desktop database",
+            "Microsoft Office"
+        ],
+        "category": "Database",
+        "popularity": 70,
+        "score": 7.2,
+        "rank": 85,
+        "version": "2019",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Microsoft_Access_2019_logo.svg",
+        "favicon": "https://www.microsoft.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft Corporation",
+        "foundedIn": "1992",
+        "shortDescription": "Desktop relational database management system.",
+        "overview": "MS Access is a Microsoft desktop database platform used for managing small to medium datasets with forms, queries, and reports.",
+        "tutorialURLs": [
+            "https://support.microsoft.com/en-us/access"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 18
+    },
+    {
+        "userId": 20,
+        "name": "Entity Framework",
+        "websiteUrl": "https://docs.microsoft.com/en-us/ef/",
+        "tag": "Entity Framework",
+        "hashtags": [
+            "#EntityFramework",
+            "#ORM",
+            "#Microsoft"
+        ],
+        "tags": [
+            "ORM",
+            "entity framework",
+            "Microsoft",
+            "database"
+        ],
+        "kind": "ORM Framework",
+        "keywords": [
+            "Entity Framework",
+            "ORM",
+            "database mapping",
+            "Microsoft"
+        ],
+        "category": "Software Development",
+        "popularity": 75,
+        "score": 8.1,
+        "rank": 60,
+        "version": "6.x / Core",
+        "logo": "https://dotnet.microsoft.com/static/images/redesign/social/symbol-logo.png",
+        "favicon": "https://dotnet.microsoft.com/favicon.ico",
+        "credits": "Microsoft",
+        "owner": "Microsoft",
+        "foundedIn": "2008",
+        "shortDescription": "Object-relational mapper for .NET.",
+        "overview": "Entity Framework is an ORM that enables .NET developers to work with a database using .NET objects, eliminating most of the data-access code.",
+        "tutorialURLs": [
+            "https://docs.microsoft.com/en-us/ef/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 19
+    },
+    {
+        "userId": 21,
+        "name": "Hibernate",
+        "websiteUrl": "https://hibernate.org",
+        "tag": "Hibernate",
+        "hashtags": [
+            "#Hibernate",
+            "#ORM",
+            "#Java"
+        ],
+        "tags": [
+            "ORM",
+            "Java",
+            "persistence",
+            "database"
+        ],
+        "kind": "ORM Framework",
+        "keywords": [
+            "Hibernate",
+            "Java",
+            "ORM",
+            "database persistence"
+        ],
+        "category": "Software Development",
+        "popularity": 80,
+        "score": 8.4,
+        "rank": 45,
+        "version": "5.x",
+        "logo": "https://hibernate.org/images/hibernate-logo.png",
+        "favicon": "https://hibernate.org/favicon.ico",
+        "credits": "Red Hat Inc.",
+        "owner": "Red Hat",
+        "foundedIn": "2001",
+        "shortDescription": "Object-relational mapping framework for Java.",
+        "overview": "Hibernate enables developers to map Java classes to database tables and provides data query and retrieval facilities.",
+        "tutorialURLs": [
+            "https://hibernate.org/orm/documentation/"
+        ],
+        "screenshots": [],
+        "images": [
+            "https://hibernate.org/images/hibernate-logo.png"
+        ],
+        "index": 20
+    },
+    {
+        "userId": 23,
+        "name": "MS SQL",
+        "websiteUrl": "https://www.microsoft.com/en-us/sql-server",
+        "tag": "MS SQL",
+        "hashtags": [
+            "#MSSQL",
+            "#Database"
+        ],
+        "tags": [
+            "database",
+            "relational",
+            "SQL Server"
+        ],
+        "kind": "Database",
+        "keywords": [
+            "MS SQL",
+            "relational database",
+            "Microsoft",
+            "SQL Server"
+        ],
+        "category": "Database",
+        "popularity": 88,
+        "score": 8.7,
+        "rank": 20,
+        "version": "2019",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_SQL_Server_Logo.svg",
+        "favicon": "https://www.microsoft.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft Corporation",
+        "foundedIn": "1989",
+        "shortDescription": "Relational database management system by Microsoft.",
+        "overview": "Provides database storage, processing, and security for enterprise data solutions.",
+        "tutorialURLs": [
+            "https://docs.microsoft.com/en-us/sql/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 21
+    },
+    {
+        "userId": 24,
+        "name": "MySQL",
+        "websiteUrl": "https://www.mysql.com",
+        "tag": "MySQL",
+        "hashtags": [
+            "#MySQL",
+            "#Database",
+            "#OpenSource"
+        ],
+        "tags": [
+            "database",
+            "relational",
+            "open source"
+        ],
+        "kind": "Database",
+        "keywords": [
+            "MySQL",
+            "database",
+            "relational",
+            "open source"
+        ],
+        "category": "Database",
+        "popularity": 90,
+        "score": 8.9,
+        "rank": 18,
+        "version": "8.0",
+        "logo": "https://www.mysql.com/common/logos/logo-mysql-170x115.png",
+        "favicon": "https://www.mysql.com/favicon.ico",
+        "credits": "Oracle Corporation",
+        "owner": "Oracle Corporation",
+        "foundedIn": "1995",
+        "shortDescription": "Popular open-source relational database management system.",
+        "overview": "Widely used for web-based applications and supported by most web hosting providers.",
+        "tutorialURLs": [
+            "https://dev.mysql.com/doc/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 22
+    },
+    {
+        "userId": 25,
+        "name": "Oracle Database",
+        "websiteUrl": "https://www.oracle.com/database/",
+        "tag": "Oracle Database",
+        "hashtags": [
+            "#OracleDatabase",
+            "#RDMS"
+        ],
+        "tags": [
+            "database",
+            "relational",
+            "oracle"
+        ],
+        "kind": "Database",
+        "keywords": [
+            "Oracle",
+            "database",
+            "enterprise",
+            "SQL"
+        ],
+        "category": "Database",
+        "popularity": 85,
+        "score": 8.6,
+        "rank": 22,
+        "version": "19c",
+        "logo": "https://www.oracle.com/a/ocom/img/oracle-logo.png",
+        "favicon": "https://www.oracle.com/favicon.ico",
+        "credits": "Oracle Corporation",
+        "owner": "Oracle Corporation",
+        "foundedIn": "1977",
+        "shortDescription": "Enterprise-grade relational database system.",
+        "overview": "Supports high-performance transaction processing, business intelligence, and analytics applications.",
+        "tutorialURLs": [
+            "https://docs.oracle.com/en/database/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 23
+    },
+    {
+        "userId": 26,
+        "name": "T-SQL",
+        "websiteUrl": "https://docs.microsoft.com/en-us/sql/t-sql/language-reference",
+        "tag": "T-SQL",
+        "hashtags": [
+            "#TSQL",
+            "#SQLServer",
+            "#Database"
+        ],
+        "tags": [
+            "T-SQL",
+            "Microsoft",
+            "SQL",
+            "database"
+        ],
+        "kind": "Programming Language",
+        "keywords": [
+            "T-SQL",
+            "SQL Server",
+            "Microsoft",
+            "database"
+        ],
+        "category": "Database",
+        "popularity": 80,
+        "score": 8.3,
+        "rank": 55,
+        "version": "Latest",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_SQL_Server_Logo.svg",
+        "favicon": "https://docs.microsoft.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft",
+        "foundedIn": "1989",
+        "shortDescription": "Transact-SQL programming language for Microsoft SQL Server.",
+        "overview": "Extends SQL with procedural programming and local variables for Microsoft SQL Server.",
+        "tutorialURLs": [
+            "https://docs.microsoft.com/en-us/sql/t-sql/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 24
+    },
+    {
+        "userId": 27,
+        "name": "Database",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Database",
+        "tag": "Database",
+        "hashtags": [
+            "#Database",
+            "#DataManagement",
+            "#Storage"
+        ],
+        "tags": [
+            "database",
+            "data",
+            "storage",
+            "management"
+        ],
+        "kind": "Technology",
+        "keywords": [
+            "database",
+            "data storage",
+            "data management"
+        ],
+        "category": "Information Technology",
+        "popularity": 95,
+        "score": 9.4,
+        "rank": 5,
+        "version": "General Concept",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Relational_Database_Icon.svg",
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "credits": "General Technology",
+        "owner": "N/A",
+        "foundedIn": "General Concept",
+        "shortDescription": "Organized collection of data.",
+        "overview": "Databases store, retrieve, and organize data for various applications.",
+        "tutorialURLs": [
+            "https://www.w3schools.com/sql/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 25
+    },
+    {
+        "userId": 28,
+        "name": "XAMPP",
+        "websiteUrl": "https://www.apachefriends.org/index.html",
+        "tag": "XAMPP",
+        "hashtags": [
+            "#XAMPP",
+            "#LocalServer",
+            "#Apache"
+        ],
+        "tags": [
+            "local server",
+            "Apache",
+            "MySQL",
+            "PHP",
+            "Perl"
+        ],
+        "kind": "Development Environment",
+        "keywords": [
+            "XAMPP",
+            "local server",
+            "development",
+            "Apache"
+        ],
+        "category": "Development Tools",
+        "popularity": 75,
+        "score": 7.8,
+        "rank": 65,
+        "version": "8.2.4",
+        "logo": "https://www.apachefriends.org/xampp-files/7.4.30/xampp-control-panel.png",
+        "favicon": "https://www.apachefriends.org/favicon.ico",
+        "credits": "Apache Friends",
+        "owner": "Apache Friends",
+        "foundedIn": "2002",
+        "shortDescription": "Free and open-source cross-platform web server solution stack package.",
+        "overview": "Includes Apache HTTP Server, MariaDB, PHP, and Perl. Popular for local development.",
+        "tutorialURLs": [
+            "https://www.apachefriends.org/faq.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 26
+    },
+    {
+        "userId": 29,
+        "name": "GitHub",
+        "websiteUrl": "https://github.com",
+        "tag": "GitHub",
+        "hashtags": [
+            "#GitHub",
+            "#VersionControl",
+            "#Git"
+        ],
+        "tags": [
+            "version control",
+            "Git",
+            "repository",
+            "collaboration"
+        ],
+        "kind": "Platform",
+        "keywords": [
+            "GitHub",
+            "Git",
+            "version control",
+            "collaboration"
+        ],
+        "category": "Development Tools",
+        "popularity": 95,
+        "score": 9.6,
+        "rank": 1,
+        "version": "Latest",
+        "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "favicon": "https://github.githubassets.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft Corporation",
+        "foundedIn": "2008",
+        "shortDescription": "Web-based hosting service for Git repositories.",
+        "overview": "Provides distributed version control and source code management functionality.",
+        "tutorialURLs": [
+            "https://docs.github.com/en/get-started"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 27
+    },
+    {
+        "userId": 30,
+        "name": "SVN (Apache Subversion)",
+        "websiteUrl": "https://subversion.apache.org",
+        "tag": "SVN",
+        "hashtags": [
+            "#SVN",
+            "#VersionControl"
+        ],
+        "tags": [
+            "version control",
+            "subversion",
+            "repository"
+        ],
+        "kind": "Version Control",
+        "keywords": [
+            "SVN",
+            "subversion",
+            "version control",
+            "repository"
+        ],
+        "category": "Development Tools",
+        "popularity": 70,
+        "score": 7.5,
+        "rank": 40,
+        "version": "1.14",
+        "logo": "https://subversion.apache.org/images/subversion-logo.png",
+        "favicon": "https://subversion.apache.org/favicon.ico",
+        "credits": "Apache Software Foundation",
+        "owner": "Apache Software Foundation",
+        "foundedIn": "2000",
+        "shortDescription": "Open-source version control system.",
+        "overview": "Tracks changes to files and directories over time.",
+        "tutorialURLs": [
+            "https://subversion.apache.org/docs/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 28
+    },
+    {
+        "userId": 31,
+        "name": "Mercurial",
+        "websiteUrl": "https://www.mercurial-scm.org/",
+        "tag": "Mercurial",
+        "hashtags": [
+            "#Mercurial",
+            "#VersionControl"
+        ],
+        "tags": [
+            "version control",
+            "distributed",
+            "scm"
+        ],
+        "kind": "Version Control System",
+        "keywords": [
+            "Mercurial",
+            "distributed version control",
+            "scm"
+        ],
+        "category": "Development Tools",
+        "popularity": 70,
+        "score": 7.3,
+        "rank": 60,
+        "version": "6.x",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mercurial_logo.svg",
+        "favicon": "https://www.mercurial-scm.org/favicon.ico",
+        "credits": "Mercurial development team",
+        "owner": "Open Source",
+        "foundedIn": "2005",
+        "shortDescription": "Distributed version control system designed for efficient handling of projects of any size.",
+        "overview": "Mercurial is a free, distributed source control management tool, intended for managing software projects.",
+        "tutorialURLs": [
+            "https://www.mercurial-scm.org/wiki/QuickStart"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 29
+    },
+    {
+        "userId": 32,
+        "name": "TortoiseSVN",
+        "websiteUrl": "https://tortoisesvn.net/",
+        "tag": "TortoiseSVN",
+        "hashtags": [
+            "#TortoiseSVN",
+            "#SVN",
+            "#VersionControl"
+        ],
+        "tags": [
+            "version control",
+            "subversion",
+            "svn"
+        ],
+        "kind": "Version Control Client",
+        "keywords": [
+            "TortoiseSVN",
+            "subversion client",
+            "svn"
+        ],
+        "category": "Development Tools",
+        "popularity": 75,
+        "score": 7.7,
+        "rank": 50,
+        "version": "1.14",
+        "logo": "https://tortoisesvn.net/TortoiseSVN_icon.svg",
+        "favicon": "https://tortoisesvn.net/favicon.ico",
+        "credits": "TortoiseSVN Development Team",
+        "owner": "Open Source",
+        "foundedIn": "2002",
+        "shortDescription": "Windows graphical user interface client for Subversion.",
+        "overview": "TortoiseSVN is a popular SVN client providing an intuitive interface for version control.",
+        "tutorialURLs": [
+            "https://tortoisesvn.net/docs/release/TortoiseSVN_en/tsvn-dug.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 30
+    },
+    {
+        "userId": 33,
+        "name": "Yeoman",
+        "websiteUrl": "https://yeoman.io/",
+        "tag": "Yeoman",
+        "hashtags": [
+            "#Yeoman",
+            "#WebDevelopment",
+            "#Scaffolding"
+        ],
+        "tags": [
+            "scaffolding",
+            "webapp",
+            "generator"
+        ],
+        "kind": "Development Tool",
+        "keywords": [
+            "Yeoman",
+            "web scaffolding",
+            "boilerplate"
+        ],
+        "category": "Development Tools",
+        "popularity": 70,
+        "score": 7.2,
+        "rank": 55,
+        "version": "4.x",
+        "logo": "https://yeoman.io/assets/img/logo.png",
+        "favicon": "https://yeoman.io/favicon.ico",
+        "credits": "Yeoman Community",
+        "owner": "Open Source",
+        "foundedIn": "2012",
+        "shortDescription": "Robust scaffolding tool for modern webapps.",
+        "overview": "Yeoman helps developers quickly build web applications, generating skeleton projects and best practices.",
+        "tutorialURLs": [
+            "https://yeoman.io/learning/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 31
+    },
+    {
+        "userId": 34,
+        "name": "Grunt.js",
+        "websiteUrl": "https://gruntjs.com/",
+        "tag": "Grunt",
+        "hashtags": [
+            "#Grunt",
+            "#JavaScript",
+            "#TaskRunner"
+        ],
+        "tags": [
+            "task runner",
+            "build tool",
+            "JavaScript"
+        ],
+        "kind": "Development Tool",
+        "keywords": [
+            "Grunt",
+            "task automation",
+            "build tool",
+            "JavaScript"
+        ],
+        "category": "Development Tools",
+        "popularity": 70,
+        "score": 7.3,
+        "rank": 60,
+        "version": "1.4.x",
+        "logo": "https://gruntjs.com/img/grunt-logo.png",
+        "favicon": "https://gruntjs.com/favicon.ico",
+        "credits": "Grunt Community",
+        "owner": "Open Source",
+        "foundedIn": "2012",
+        "shortDescription": "JavaScript task runner built on Node.js.",
+        "overview": "Helps automate repetitive tasks like minification, compilation, unit testing, and linting.",
+        "tutorialURLs": [
+            "https://gruntjs.com/getting-started"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 32
+    },
+    {
+        "userId": 35,
+        "name": "Git",
+        "websiteUrl": "https://git-scm.com/",
+        "tag": "Git",
+        "hashtags": [
+            "#Git",
+            "#VersionControl",
+            "#SCM"
+        ],
+        "tags": [
+            "version control",
+            "git",
+            "source code management"
+        ],
+        "kind": "Version Control System",
+        "keywords": [
+            "Git",
+            "version control",
+            "distributed SCM"
+        ],
+        "category": "Development Tools",
+        "popularity": 95,
+        "score": 9.5,
+        "rank": 1,
+        "version": "2.40.x",
+        "logo": "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png",
+        "favicon": "https://git-scm.com/favicon.ico",
+        "credits": "Linus Torvalds and community",
+        "owner": "Open Source",
+        "foundedIn": "2005",
+        "shortDescription": "Popular distributed version control system.",
+        "overview": "Empowers software developers to track changes and collaborate on projects.",
+        "tutorialURLs": [
+            "https://git-scm.com/doc"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 33
+    },
+    {
+        "userId": 36,
+        "name": "TFS (Team Foundation Server)",
+        "websiteUrl": "https://azure.microsoft.com/en-us/services/devops/server/",
+        "tag": "TFS",
+        "hashtags": [
+            "#TFS",
+            "#DevOps",
+            "#AzureDevOps"
+        ],
+        "tags": [
+            "version control",
+            "project management",
+            "DevOps"
+        ],
+        "kind": "Collaboration Tool",
+        "keywords": [
+            "TFS",
+            "Azure DevOps Server",
+            "Microsoft",
+            "version control",
+            "project management"
+        ],
+        "category": "Development Tools",
+        "popularity": 75,
+        "score": 7.8,
+        "rank": 45,
+        "version": "Latest",
+        "logo": "https://azurecomcdn.azureedge.net/cvt-a7af3c465277dcfd4571d3a8029efcf4a1e1f7544c9f5ef9f290de0ecf0b1b12/images/page/services/devops/devops-logo.svg",
+        "favicon": "https://azure.microsoft.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft",
+        "foundedIn": "2005",
+        "shortDescription": "Microsoft's on-premises DevOps solution integrating version control and project management.",
+        "overview": "Provides collaboration tools for software development teams, integrating version control, build, and release pipelines.",
+        "tutorialURLs": [
+            "https://docs.microsoft.com/en-us/azure/devops/server/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 34
+    },
+    {
+        "userId": 37,
+        "name": "Learning Management System (LMS)",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Learning_management_system",
+        "tag": "LMS",
+        "hashtags": [
+            "#LMS",
+            "#Elearning",
+            "#Education"
+        ],
+        "tags": [
+            "elearning",
+            "education",
+            "training"
+        ],
+        "kind": "Educational Technology",
+        "keywords": [
+            "LMS",
+            "learning management",
+            "e-learning",
+            "training"
+        ],
+        "category": "Education Technology",
+        "popularity": 80,
+        "score": 8,
+        "rank": 50,
+        "version": "General Concept",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/99/Book_icon.svg",
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "credits": "General technology category",
+        "owner": "Various Vendors",
+        "foundedIn": "",
+        "shortDescription": "Software applications for delivering and managing educational courses and training programs.",
+        "overview": "Supports online learning, training management, course content delivery, and student progress tracking.",
+        "tutorialURLs": [
+            "https://www.talentlms.com/what-is-an-lms"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 35
+    },
+    {
+        "userId": 38,
+        "name": "Gaming Platforms",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Online_gaming_platform",
+        "tag": "Gaming Platforms",
+        "hashtags": [
+            "#Gaming",
+            "#Platform",
+            "#OnlineGaming"
+        ],
+        "tags": [
+            "gaming",
+            "platform",
+            "online games"
+        ],
+        "kind": "Entertainment Software",
+        "keywords": [
+            "gaming platforms",
+            "online games",
+            "multiplayer"
+        ],
+        "category": "Entertainment",
+        "popularity": 90,
+        "score": 9,
+        "rank": 20,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various vendors",
+        "owner": "Various vendors",
+        "foundedIn": "",
+        "shortDescription": "Platforms hosting online games and multiplayer experiences.",
+        "overview": "Supports game matchmaking, player account management, and social features.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 36
+    },
+    {
+        "userId": 39,
+        "name": "Flex Automation",
+        "websiteUrl": "https://helpx.adobe.com/flex/using/automation.html",
+        "tag": "Flex Automation",
+        "hashtags": [
+            "#Flex",
+            "#Automation",
+            "#Adobe"
+        ],
+        "tags": [
+            "Adobe Flex",
+            "automation",
+            "testing"
+        ],
+        "kind": "Automation Framework",
+        "keywords": [
+            "Flex",
+            "automation",
+            "testing",
+            "Adobe"
+        ],
+        "category": "Software Development",
+        "popularity": 65,
+        "score": 6.8,
+        "rank": 75,
+        "version": "Legacy",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Adobe_Flex_logo.png",
+        "favicon": "",
+        "credits": "Adobe",
+        "owner": "Adobe",
+        "foundedIn": "2004",
+        "shortDescription": "Automation framework for testing Flex applications.",
+        "overview": "Supports automated testing of Flex applications to improve software quality.",
+        "tutorialURLs": [
+            "https://helpx.adobe.com/flex/using/automation.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 37
+    },
+    {
+        "userId": 40,
+        "name": "Adobe Flash",
+        "websiteUrl": "https://www.adobe.com/products/flash.html",
+        "tag": "Adobe Flash",
+        "hashtags": [
+            "#AdobeFlash",
+            "#Multimedia"
+        ],
+        "tags": [
+            "multimedia",
+            "animation",
+            "web"
+        ],
+        "kind": "Multimedia Platform",
+        "keywords": [
+            "Adobe Flash",
+            "multimedia",
+            "animation",
+            "web"
+        ],
+        "category": "Multimedia",
+        "popularity": 45,
+        "score": 5,
+        "rank": 110,
+        "version": "Deprecated",
+        "logo": "https://www.adobe.com/content/dam/cc/icons/flash.svg",
+        "favicon": "https://www.adobe.com/favicon.ico",
+        "credits": "Adobe",
+        "owner": "Adobe",
+        "foundedIn": "1996",
+        "shortDescription": "Multimedia platform for animations and web applications, now deprecated.",
+        "overview": "Adobe Flash enabled rich web content, animations, and interactive media, phased out in favor of HTML5.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 38
+    },
+    {
+        "userId": 45,
+        "name": "E-commerce Platforms",
+        "websiteUrl": "https://en.wikipedia.org/wiki/E-commerce_platform",
+        "tag": "E-commerce Platforms",
+        "hashtags": [
+            "#Ecommerce",
+            "#Platforms",
+            "#OnlineShopping"
+        ],
+        "tags": [
+            "ecommerce",
+            "platforms",
+            "online shop"
+        ],
+        "kind": "Business Software",
+        "keywords": [
+            "ecommerce platforms",
+            "online stores",
+            "shopping"
+        ],
+        "category": "E-commerce",
+        "popularity": 90,
+        "score": 9,
+        "rank": 15,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various vendors",
+        "owner": "Various vendors",
+        "foundedIn": "",
+        "shortDescription": "Platforms to build and manage online stores.",
+        "overview": "Includes features for product management, payment processing, and order management.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 39
+    },
+    {
+        "userId": 46,
+        "name": "Online Shopping Platforms",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Online_shopping",
+        "tag": "Online Shopping",
+        "hashtags": [
+            "#OnlineShopping",
+            "#Ecommerce",
+            "#Retail"
+        ],
+        "tags": [
+            "online shopping",
+            "retail",
+            "ecommerce"
+        ],
+        "kind": "E-commerce",
+        "keywords": [
+            "online shopping",
+            "ecommerce",
+            "retail"
+        ],
+        "category": "E-commerce",
+        "popularity": 95,
+        "score": 9.3,
+        "rank": 7,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various vendors",
+        "owner": "Various vendors",
+        "foundedIn": "",
+        "shortDescription": "Digital platforms for buying and selling goods online.",
+        "overview": "Supports browsing, ordering, payment, and delivery of goods.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 40
+    },
+    {
+        "userId": 47,
+        "name": "Banking Software",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Bank_software",
+        "tag": "Banking Software",
+        "hashtags": [
+            "#Banking",
+            "#Finance",
+            "#Software"
+        ],
+        "tags": [
+            "banking",
+            "financial",
+            "software"
+        ],
+        "kind": "Financial Software",
+        "keywords": [
+            "banking software",
+            "finance",
+            "transaction"
+        ],
+        "category": "Financial Technology",
+        "popularity": 85,
+        "score": 8.7,
+        "rank": 20,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various vendors",
+        "owner": "Various vendors",
+        "foundedIn": "",
+        "shortDescription": "Software solutions for managing banking operations.",
+        "overview": "Includes systems for account management, transactions, compliance, and risk management.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 41
+    },
+    {
+        "userId": 48,
+        "name": "Finance Software",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Accounting_software",
+        "tag": "Finance Software",
+        "hashtags": [
+            "#Finance",
+            "#Accounting",
+            "#Software"
+        ],
+        "tags": [
+            "finance",
+            "accounting",
+            "software"
+        ],
+        "kind": "Financial Software",
+        "keywords": [
+            "finance software",
+            "accounting",
+            "bookkeeping"
+        ],
+        "category": "Financial Technology",
+        "popularity": 88,
+        "score": 8.9,
+        "rank": 15,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various vendors",
+        "owner": "Various vendors",
+        "foundedIn": "",
+        "shortDescription": "Software for managing financial transactions and accounting.",
+        "overview": "Used for bookkeeping, budgeting, tax preparation, and financial reporting.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 42
+    },
+    {
+        "userId": 49,
+        "name": "Healthcare Software",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Health_information_technology",
+        "tag": "Healthcare Software",
+        "hashtags": [
+            "#Healthcare",
+            "#HealthIT",
+            "#MedicalSoftware"
+        ],
+        "tags": [
+            "healthcare",
+            "medical",
+            "software"
+        ],
+        "kind": "Healthcare Technology",
+        "keywords": [
+            "healthcare software",
+            "electronic health records",
+            "medical software"
+        ],
+        "category": "Healthcare Technology",
+        "popularity": 80,
+        "score": 8,
+        "rank": 40,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various vendors",
+        "owner": "Various vendors",
+        "foundedIn": "",
+        "shortDescription": "Software solutions supporting healthcare management and clinical processes.",
+        "overview": "Includes electronic health records, practice management, and telemedicine.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 43
+    },
+    {
+        "userId": 50,
+        "name": "Telecom Software",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Telecommunications_software",
+        "tag": "Telecom Software",
+        "hashtags": [
+            "#Telecom",
+            "#Software",
+            "#Networks"
+        ],
+        "tags": [
+            "telecommunications",
+            "software",
+            "networks"
+        ],
+        "kind": "Telecommunications Technology",
+        "keywords": [
+            "telecom software",
+            "network management",
+            "communications"
+        ],
+        "category": "Telecommunications",
+        "popularity": 75,
+        "score": 7.8,
+        "rank": 50,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various vendors",
+        "owner": "Various vendors",
+        "foundedIn": "",
+        "shortDescription": "Software for managing telecommunications networks and services.",
+        "overview": "Used for billing, network management, customer service, and provisioning.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 44
+    },
+    {
+        "userId": 59,
+        "name": "NativeScript",
+        "websiteUrl": "https://nativescript.org/",
+        "tag": "NativeScript",
+        "hashtags": [
+            "#NativeScript",
+            "#MobileDevelopment"
+        ],
+        "tags": [
+            "native mobile",
+            "cross-platform",
+            "JavaScript"
+        ],
+        "kind": "Framework",
+        "keywords": [
+            "NativeScript",
+            "mobile app development",
+            "cross-platform"
+        ],
+        "category": "Mobile Development",
+        "popularity": 70,
+        "score": 7.3,
+        "rank": 60,
+        "version": "8.x",
+        "logo": "https://nativescript.org/ns-logo.svg",
+        "favicon": "https://nativescript.org/favicon.ico",
+        "credits": "Progress",
+        "owner": "Progress",
+        "foundedIn": "2015",
+        "shortDescription": "Framework for building native apps with JavaScript and TypeScript.",
+        "overview": "Allows developers to build native mobile applications using web technologies for iOS and Android.",
+        "tutorialURLs": [
+            "https://docs.nativescript.org/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 45
+    },
+    {
+        "userId": 60,
+        "name": "PhoneGap",
+        "websiteUrl": "https://phonegap.com/",
+        "tag": "PhoneGap",
+        "hashtags": [
+            "#PhoneGap",
+            "#MobileDevelopment",
+            "#ApacheCordova"
+        ],
+        "tags": [
+            "mobile",
+            "cross-platform",
+            "hybrid apps"
+        ],
+        "kind": "Framework",
+        "keywords": [
+            "PhoneGap",
+            "mobile apps",
+            "hybrid",
+            "Apache Cordova"
+        ],
+        "category": "Mobile Development",
+        "popularity": 65,
+        "score": 6.7,
+        "rank": 80,
+        "version": "Last release 2019",
+        "logo": "https://phonegap.com/img/phonegap-logo.png",
+        "favicon": "https://phonegap.com/favicon.ico",
+        "credits": "Adobe Systems / Apache Cordova",
+        "owner": "Apache Software Foundation",
+        "foundedIn": "2009",
+        "shortDescription": "Open-source framework for building cross-platform mobile apps.",
+        "overview": "Uses HTML, CSS, and JavaScript to build hybrid mobile applications.",
+        "tutorialURLs": [
+            "https://cordova.apache.org/docs/en/latest/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 46
+    },
+    {
+        "userId": 61,
+        "name": "Adobe Extension Manager",
+        "websiteUrl": "https://helpx.adobe.com/extension-manager.html",
+        "tag": "Adobe Extension Manager",
+        "hashtags": [
+            "#Adobe",
+            "#Extensions",
+            "#Manager"
+        ],
+        "tags": [
+            "Adobe",
+            "extensions",
+            "extension manager",
+            "software management"
+        ],
+        "kind": "Software Tool",
+        "keywords": [
+            "Adobe",
+            "extension manager",
+            "plugin management"
+        ],
+        "category": "Software Development",
+        "popularity": 50,
+        "score": 5,
+        "rank": 90,
+        "version": "Legacy",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Adobe_Extension_Manager_Logo.svg",
+        "favicon": "",
+        "credits": "Adobe",
+        "owner": "Adobe",
+        "foundedIn": "",
+        "shortDescription": "Tool to manage Adobe Creative Suite extensions.",
+        "overview": "Allows installation and management of add-ons for Adobe software products.",
+        "tutorialURLs": [
+            "https://helpx.adobe.com/extension-manager/using.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 47
+    },
+    {
+        "userId": 62,
+        "name": "ActionScript",
+        "websiteUrl": "https://www.adobe.com/devnet/actionscript.html",
+        "tag": "ActionScript",
+        "hashtags": [
+            "#ActionScript",
+            "#Adobe",
+            "#Programming"
+        ],
+        "tags": [
+            "programming",
+            "ActionScript",
+            "Adobe",
+            "Flash"
+        ],
+        "kind": "Programming Language",
+        "keywords": [
+            "ActionScript",
+            "Flash",
+            "programming"
+        ],
+        "category": "Software Development",
+        "popularity": 55,
+        "score": 6,
+        "rank": 87,
+        "version": "3.0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Adobe_ActionScript_logo.svg/220px-Adobe_ActionScript_logo.svg.png",
+        "favicon": "",
+        "credits": "Adobe",
+        "owner": "Adobe",
+        "foundedIn": "2000",
+        "shortDescription": "Programming language for Flash applications.",
+        "overview": "Used primarily for developing interactive animations and applications with Flash.",
+        "tutorialURLs": [
+            "https://www.adobe.com/devnet/actionscript.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 48
+    },
+    {
+        "userId": 63,
+        "name": "C",
+        "websiteUrl": "https://en.wikipedia.org/wiki/C_(programming_language)",
+        "tag": "C Language",
+        "hashtags": [
+            "#C",
+            "#Programming",
+            "#Language"
+        ],
+        "tags": [
+            "programming",
+            "compiled language",
+            "software"
+        ],
+        "kind": "Programming Language",
+        "keywords": [
+            "C",
+            "programming",
+            "systems programming"
+        ],
+        "category": "Software Development",
+        "popularity": 90,
+        "score": 9,
+        "rank": 15,
+        "version": "C18",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png",
+        "favicon": "",
+        "credits": "Dennis Ritchie",
+        "owner": "Open Standard",
+        "foundedIn": "1972",
+        "shortDescription": "General-purpose procedural programming language.",
+        "overview": "Widely used for system/software development and embedded programming.",
+        "tutorialURLs": [
+            "https://en.cppreference.com/w/c"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 49
+    },
+    {
+        "userId": 64,
+        "name": "C++",
+        "websiteUrl": "https://isocpp.org/",
+        "tag": "C++",
+        "hashtags": [
+            "#C++",
+            "#Programming",
+            "#Language"
+        ],
+        "tags": [
+            "programming",
+            "object-oriented",
+            "software"
+        ],
+        "kind": "Programming Language",
+        "keywords": [
+            "C++",
+            "programming",
+            "object-oriented"
+        ],
+        "category": "Software Development",
+        "popularity": 85,
+        "score": 8.7,
+        "rank": 22,
+        "version": "C++20",
+        "logo": "https://isocpp.org/assets/images/cpp_logo.png",
+        "favicon": "",
+        "credits": "Bjarne Stroustrup",
+        "owner": "Open Standard",
+        "foundedIn": "1985",
+        "shortDescription": "General-purpose programming language with object-oriented features.",
+        "overview": "Widely used for software development, games, real-time systems.",
+        "tutorialURLs": [
+            "https://isocpp.org/get-started"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 50
+    },
+    {
+        "userId": 65,
+        "name": "C# .NET",
+        "websiteUrl": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+        "tag": "C#",
+        "hashtags": [
+            "#CSharp",
+            "#DotNet",
+            "#Programming"
+        ],
+        "tags": [
+            "programming",
+            "C#",
+            ".NET",
+            "Microsoft"
+        ],
+        "kind": "Programming Language",
+        "keywords": [
+            "C#",
+            "programming",
+            ".NET",
+            "object-oriented"
+        ],
+        "category": "Software Development",
+        "popularity": 85,
+        "score": 8.8,
+        "rank": 20,
+        "version": "9.0",
+        "logo": "https://docs.microsoft.com/en-us/media/logos/logo_ms.svg",
+        "favicon": "",
+        "credits": "Microsoft",
+        "owner": "Microsoft",
+        "foundedIn": "2000",
+        "shortDescription": "Modern object-oriented programming language from Microsoft.",
+        "overview": "Used for developing Windows applications, web services, and games.",
+        "tutorialURLs": [
+            "https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 51
+    },
+    {
+        "userId": 66,
+        "name": "Java",
+        "websiteUrl": "https://www.java.com/",
+        "tag": "Java",
+        "hashtags": [
+            "#Java",
+            "#Programming",
+            "#Language"
+        ],
+        "tags": [
+            "programming",
+            "Java",
+            "object-oriented",
+            "cross-platform"
+        ],
+        "kind": "Programming Language",
+        "keywords": [
+            "Java",
+            "programming",
+            "cross-platform",
+            "object-oriented"
+        ],
+        "category": "Software Development",
+        "popularity": 95,
+        "score": 9.3,
+        "rank": 8,
+        "version": "Java SE 17",
+        "logo": "https://www.oracle.com/a/ocom/img/cb71-java-logo.png",
+        "favicon": "",
+        "credits": "Sun Microsystems / Oracle",
+        "owner": "Oracle Corporation",
+        "foundedIn": "1995",
+        "shortDescription": "Widely used high-level, class-based, object-oriented programming language.",
+        "overview": "Used for building platform-independent applications across many domains.",
+        "tutorialURLs": [
+            "https://docs.oracle.com/javase/tutorial/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 52
+    },
+    {
+        "userId": 67,
+        "name": "JavaScript",
+        "websiteUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "tag": "JavaScript",
+        "hashtags": [
+            "#JavaScript",
+            "#Programming",
+            "#Web"
+        ],
+        "tags": [
+            "programming",
+            "JavaScript",
+            "web",
+            "frontend",
+            "backend"
+        ],
+        "kind": "Programming Language",
+        "keywords": [
+            "JavaScript",
+            "web development",
+            "frontend",
+            "backend",
+            "node.js"
+        ],
+        "category": "Software Development",
+        "popularity": 98,
+        "score": 9.7,
+        "rank": 1,
+        "version": "ECMAScript 2021",
+        "logo": "https://developer.mozilla.org/static/img/favicon144.png",
+        "favicon": "https://developer.mozilla.org/static/img/favicon32.png",
+        "credits": "Brendan Eich",
+        "owner": "Open Web",
+        "foundedIn": "1995",
+        "shortDescription": "High-level programming language for web development.",
+        "overview": "Supports client-side and server-side scripting, event-driven programming.",
+        "tutorialURLs": [
+            "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 53
+    },
+    {
+        "userId": 68,
+        "name": "PHP",
+        "websiteUrl": "https://www.php.net/",
+        "tag": "PHP",
+        "hashtags": [
+            "#PHP",
+            "#Programming",
+            "#Backend"
+        ],
+        "tags": [
+            "programming",
+            "PHP",
+            "web",
+            "backend"
+        ],
+        "kind": "Programming Language",
+        "keywords": [
+            "PHP",
+            "backend",
+            "web development"
+        ],
+        "category": "Software Development",
+        "popularity": 90,
+        "score": 8.5,
+        "rank": 12,
+        "version": "8.1",
+        "logo": "https://www.php.net/images/logos/new-php-logo.svg",
+        "favicon": "https://www.php.net/favicon.ico",
+        "credits": "Rasmus Lerdorf",
+        "owner": "The PHP Group",
+        "foundedIn": "1994",
+        "shortDescription": "Server-side scripting language for web development.",
+        "overview": "Used to create dynamic web pages and applications.",
+        "tutorialURLs": [
+            "https://www.php.net/manual/en/tutorial.php"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 54
+    },
+    {
+        "userId": 69,
+        "name": "LINQ",
+        "websiteUrl": "https://docs.microsoft.com/en-us/dotnet/standard/using-linq",
+        "tag": "LINQ",
+        "hashtags": [
+            "#LINQ",
+            "#Microsoft",
+            "#Data"
+        ],
+        "tags": [
+            "LINQ",
+            "query",
+            "data",
+            "Microsoft",
+            ".NET"
+        ],
+        "kind": "Programming Feature",
+        "keywords": [
+            "LINQ",
+            "data query",
+            ".NET",
+            "Microsoft"
+        ],
+        "category": "Software Development",
+        "popularity": 75,
+        "score": 7.6,
+        "rank": 55,
+        "version": "Latest",
+        "logo": "",
+        "favicon": "",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft",
+        "foundedIn": "2007",
+        "shortDescription": "Language integrated query for .NET.",
+        "overview": "Enables querying data from collections in a consistent way.",
+        "tutorialURLs": [
+            "https://docs.microsoft.com/en-us/dotnet/standard/using-linq"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 55
+    },
+    {
+        "userId": 75,
+        "name": "Sprint Board",
+        "websiteUrl": "",
+        "tag": "Sprint Board",
+        "hashtags": [
+            "#SprintBoard",
+            "#Agile"
+        ],
+        "tags": [
+            "agile",
+            "sprints",
+            "project management"
+        ],
+        "kind": "Project Management Tool",
+        "keywords": [
+            "sprint board",
+            "agile",
+            "project management"
+        ],
+        "category": "Agile Tools",
+        "popularity": 65,
+        "score": 6.5,
+        "rank": 75,
+        "version": "Generic",
+        "logo": "",
+        "favicon": "",
+        "credits": "Generic Agile Tool",
+        "owner": "Various",
+        "foundedIn": "",
+        "shortDescription": "Visual project management board for agile sprint tracking.",
+        "overview": "Used to track and manage tasks during agile sprints in software development teams.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 56
+    },
+    {
+        "userId": 76,
+        "name": "Mantis",
+        "websiteUrl": "https://www.mantisbt.org/",
+        "tag": "Mantis",
+        "hashtags": [
+            "#Mantis",
+            "#BugTracking",
+            "#IssueTracking"
+        ],
+        "tags": [
+            "bug tracking",
+            "issue tracking",
+            "project management"
+        ],
+        "kind": "Bug Tracking Tool",
+        "keywords": [
+            "Mantis",
+            "bug tracker",
+            "open source"
+        ],
+        "category": "Development Tools",
+        "popularity": 70,
+        "score": 7.2,
+        "rank": 60,
+        "version": "2.25.4",
+        "logo": "https://www.mantisbt.org/branding/mantisbt_logo.png",
+        "favicon": "https://www.mantisbt.org/favicon.ico",
+        "credits": "MantisBT community",
+        "owner": "Open Source",
+        "foundedIn": "2000",
+        "shortDescription": "Open-source web-based bug tracking system.",
+        "overview": "Tracks software defects and manages issue workflows effectively.",
+        "tutorialURLs": [
+            "https://www.mantisbt.org/docs/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 57
+    },
+    {
+        "userId": 77,
+        "name": "theBugGenie",
+        "websiteUrl": "https://www.thebuggenie.com/",
+        "tag": "theBugGenie",
+        "hashtags": [
+            "#BugTracking",
+            "#IssueTracking"
+        ],
+        "tags": [
+            "bug tracking",
+            "issue tracking",
+            "project management"
+        ],
+        "kind": "Bug Tracking Tool",
+        "keywords": [
+            "theBugGenie",
+            "bug tracker",
+            "issue management"
+        ],
+        "category": "Development Tools",
+        "popularity": 60,
+        "score": 6.5,
+        "rank": 80,
+        "version": "3.1",
+        "logo": "https://www.thebuggenie.com/logo.png",
+        "favicon": "",
+        "credits": "theBugGenie Developers",
+        "owner": "theBugGenie project",
+        "foundedIn": "2004",
+        "shortDescription": "Web-based issue and bug tracking software.",
+        "overview": "Provides features for issue tracking, project management, and collaboration.",
+        "tutorialURLs": [
+            "https://www.thebuggenie.com/documentation"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 58
+    },
+    {
+        "userId": 78,
+        "name": "Jira",
+        "websiteUrl": "https://www.atlassian.com/software/jira",
+        "tag": "Jira",
+        "hashtags": [
+            "#Jira",
+            "#Agile",
+            "#ProjectManagement"
+        ],
+        "tags": [
+            "project management",
+            "issue tracking",
+            "agile"
+        ],
+        "kind": "Project Management Tool",
+        "keywords": [
+            "Jira",
+            "agile",
+            "issue tracking",
+            "project management"
+        ],
+        "category": "Development Tools",
+        "popularity": 90,
+        "score": 9,
+        "rank": 10,
+        "version": "Cloud",
+        "logo": "https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png",
+        "favicon": "https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png",
+        "credits": "Atlassian",
+        "owner": "Atlassian",
+        "foundedIn": "2002",
+        "shortDescription": "Popular agile project management and issue tracking tool.",
+        "overview": "Used by software teams for tracking issues, bugs, and project tasks.",
+        "tutorialURLs": [
+            "https://www.atlassian.com/software/jira/guides"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 59
+    },
+    {
+        "userId": 79,
+        "name": "Bugzilla",
+        "websiteUrl": "https://www.bugzilla.org/",
+        "tag": "Bugzilla",
+        "hashtags": [
+            "#Bugzilla",
+            "#BugTracking"
+        ],
+        "tags": [
+            "bug tracking",
+            "issue management",
+            "open source"
+        ],
+        "kind": "Bug Tracking Tool",
+        "keywords": [
+            "Bugzilla",
+            "bug tracking",
+            "issue management"
+        ],
+        "category": "Development Tools",
+        "popularity": 75,
+        "score": 7.5,
+        "rank": 70,
+        "version": "5.0",
+        "logo": "https://www.bugzilla.org/img/bugzilla-logo.png",
+        "favicon": "https://www.bugzilla.org/favicon.ico",
+        "credits": "Mozilla Foundation",
+        "owner": "Open Source",
+        "foundedIn": "1998",
+        "shortDescription": "Web-based bug tracking system.",
+        "overview": "Used to track bugs and code changes in software projects.",
+        "tutorialURLs": [
+            "https://www.bugzilla.org/docs/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 60
+    },
+    {
+        "userId": 80,
+        "name": "Kanban Board",
+        "websiteUrl": "https://kanbanize.com/kanban-resources/getting-started/what-is-kanban",
+        "tag": "Kanban Board",
+        "hashtags": [
+            "#Kanban",
+            "#ProjectManagement"
+        ],
+        "tags": [
+            "kanban",
+            "project management",
+            "agile"
+        ],
+        "kind": "Project Management Tool",
+        "keywords": [
+            "kanban",
+            "agile",
+            "task tracking"
+        ],
+        "category": "Agile Tools",
+        "popularity": 85,
+        "score": 8.2,
+        "rank": 35,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various Vendors",
+        "owner": "Various Vendors",
+        "foundedIn": "",
+        "shortDescription": "Visual workflow management tool for agile teams.",
+        "overview": "Helps teams visualize work, limit work-in-progress, and maximize efficiency.",
+        "tutorialURLs": [
+            "https://kanbanize.com/kanban-resources/getting-started/what-is-kanban"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 61
+    },
+    {
+        "userId": 81,
+        "name": "Social Networking Platforms",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Social_networking_service",
+        "tag": "Social Networking Platforms",
+        "hashtags": [
+            "#SocialNetworking",
+            "#Platforms"
+        ],
+        "tags": [
+            "social media",
+            "network",
+            "platforms"
+        ],
+        "kind": "Online Platforms",
+        "keywords": [
+            "social networking",
+            "online platforms",
+            "community"
+        ],
+        "category": "Social Media",
+        "popularity": 95,
+        "score": 9.5,
+        "rank": 5,
+        "version": "General Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various",
+        "owner": "Various",
+        "foundedIn": "",
+        "shortDescription": "Platforms for building social networks online.",
+        "overview": "Support communication, content sharing, and social interactions.",
+        "tutorialURLs": [],
+        "screenshots": [],
+        "images": [],
+        "index": 62
+    },
+    {
+        "userId": 82,
+        "name": "REST API",
+        "websiteUrl": "https://restfulapi.net/",
+        "tag": "REST API",
+        "hashtags": [
+            "#REST",
+            "#API",
+            "#WebServices"
+        ],
+        "tags": [
+            "REST",
+            "API",
+            "web services"
+        ],
+        "kind": "Architectural Style",
+        "keywords": [
+            "REST",
+            "API",
+            "HTTP",
+            "web services"
+        ],
+        "category": "Web Development",
+        "popularity": 95,
+        "score": 9.6,
+        "rank": 2,
+        "version": "Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Roy Fielding",
+        "owner": "Conceptual",
+        "foundedIn": "2000",
+        "shortDescription": "Architectural style for designing networked applications.",
+        "overview": "Uses HTTP requests for creating, reading, updating, and deleting resources.",
+        "tutorialURLs": [
+            "https://restfulapi.net/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 63
+    },
+    {
+        "userId": 83,
+        "name": "MVC",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller",
+        "tag": "MVC",
+        "hashtags": [
+            "#MVC",
+            "#Architecture",
+            "#DesignPattern"
+        ],
+        "tags": [
+            "MVC",
+            "architecture",
+            "design pattern"
+        ],
+        "kind": "Software Architecture",
+        "keywords": [
+            "MVC",
+            "model-view-controller",
+            "design pattern"
+        ],
+        "category": "Software Design",
+        "popularity": 90,
+        "score": 9,
+        "rank": 10,
+        "version": "Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Trygve Reenskaug",
+        "owner": "Conceptual",
+        "foundedIn": "1979",
+        "shortDescription": "Software architectural pattern for user interfaces.",
+        "overview": "Separates an application into Model, View, and Controller components.",
+        "tutorialURLs": [
+            "https://www.geeksforgeeks.org/mvc-design-pattern/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 64
+    },
+    {
+        "userId": 84,
+        "name": "Agile",
+        "websiteUrl": "https://agilemanifesto.org/",
+        "tag": "Agile",
+        "hashtags": [
+            "#Agile",
+            "#SoftwareDevelopment"
+        ],
+        "tags": [
+            "agile",
+            "software development",
+            "methodology"
+        ],
+        "kind": "Development Methodology",
+        "keywords": [
+            "agile",
+            "scrum",
+            "software development"
+        ],
+        "category": "Project Management",
+        "popularity": 95,
+        "score": 9.7,
+        "rank": 1,
+        "version": "Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Agile Alliance",
+        "owner": "Community",
+        "foundedIn": "2001",
+        "shortDescription": "Iterative software development methodology.",
+        "overview": "Focuses on collaboration, customer feedback, and small rapid releases.",
+        "tutorialURLs": [
+            "https://agilemanifesto.org/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 65
+    },
+    {
+        "userId": 85,
+        "name": "SDLC",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Systems_development_life_cycle",
+        "tag": "SDLC",
+        "hashtags": [
+            "#SDLC",
+            "#Development",
+            "#Lifecycle"
+        ],
+        "tags": [
+            "system development",
+            "life cycle",
+            "software"
+        ],
+        "kind": "Development Process",
+        "keywords": [
+            "SDLC",
+            "software development life cycle"
+        ],
+        "category": "Software Development",
+        "popularity": 90,
+        "score": 9,
+        "rank": 8,
+        "version": "Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various",
+        "owner": "Conceptual",
+        "foundedIn": "",
+        "shortDescription": "Process used by software industry to design, develop, and test software.",
+        "overview": "Includes phases like planning, analysis, design, implementation, and maintenance.",
+        "tutorialURLs": [
+            "https://www.tutorialspoint.com/sdlc/index.htm"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 66
+    },
+    {
+        "userId": 86,
+        "name": "Waterfall Model",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Waterfall_model",
+        "tag": "Waterfall Model",
+        "hashtags": [
+            "#Waterfall",
+            "#SoftwareDevelopment"
+        ],
+        "tags": [
+            "waterfall",
+            "software development",
+            "project management"
+        ],
+        "kind": "Development Model",
+        "keywords": [
+            "waterfall",
+            "software development process"
+        ],
+        "category": "Project Management",
+        "popularity": 75,
+        "score": 7.5,
+        "rank": 50,
+        "version": "Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Winston W. Royce",
+        "owner": "Conceptual",
+        "foundedIn": "1970",
+        "shortDescription": "Sequential software development process.",
+        "overview": "Progresses linearly through phases: requirements, design, implementation, testing, maintenance.",
+        "tutorialURLs": [
+            "https://www.geeksforgeeks.org/waterfall-model/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 67
+    },
+    {
+        "userId": 87,
+        "name": "STLC",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Software_testing_life_cycle",
+        "tag": "STLC",
+        "hashtags": [
+            "#STLC",
+            "#SoftwareTesting"
+        ],
+        "tags": [
+            "software testing",
+            "life cycle",
+            "quality assurance"
+        ],
+        "kind": "Testing Process",
+        "keywords": [
+            "STLC",
+            "software testing life cycle"
+        ],
+        "category": "Software Testing",
+        "popularity": 85,
+        "score": 8.5,
+        "rank": 30,
+        "version": "Concept",
+        "logo": "",
+        "favicon": "",
+        "credits": "Various",
+        "owner": "Conceptual",
+        "foundedIn": "",
+        "shortDescription": "Process followed during software testing phases.",
+        "overview": "Includes phases like requirement analysis, planning, test case development, execution, and closure.",
+        "tutorialURLs": [
+            "https://www.guru99.com/software-testing-life-cycle.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 68
+    },
+    {
+        "userId": 88,
+        "name": "Selenium",
+        "websiteUrl": "https://www.selenium.dev/",
+        "tag": "Selenium",
+        "hashtags": [
+            "#Selenium",
+            "#TestAutomation"
+        ],
+        "tags": [
+            "test automation",
+            "selenium",
+            "webdriver",
+            "QA"
+        ],
+        "kind": "Testing Framework",
+        "keywords": [
+            "Selenium",
+            "automated testing",
+            "web driver",
+            "QA"
+        ],
+        "category": "Software Testing",
+        "popularity": 90,
+        "score": 9,
+        "rank": 12,
+        "version": "4.x",
+        "logo": "https://www.selenium.dev/images/selenium_logo_square.png",
+        "favicon": "https://www.selenium.dev/favicon.ico",
+        "credits": "SeleniumHQ",
+        "owner": "SeleniumHQ",
+        "foundedIn": "2004",
+        "shortDescription": "Popular web browser automation tool for testing.",
+        "overview": "Selenium automates browsers for testing web applications across different platforms.",
+        "tutorialURLs": [
+            "https://www.selenium.dev/documentation/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 69
+    },
+    {
+        "userId": 89,
+        "name": "WebdriverIO",
+        "websiteUrl": "https://webdriver.io/",
+        "tag": "WebdriverIO",
+        "hashtags": [
+            "#WebdriverIO",
+            "#TestAutomation"
+        ],
+        "tags": [
+            "test automation",
+            "webdriverio",
+            "nodejs",
+            "QA"
+        ],
+        "kind": "Testing Framework",
+        "keywords": [
+            "WebdriverIO",
+            "automation",
+            "test runner",
+            "nodejs"
+        ],
+        "category": "Software Testing",
+        "popularity": 75,
+        "score": 7.8,
+        "rank": 40,
+        "version": "8.x",
+        "logo": "https://webdriver.io/img/logo.png",
+        "favicon": "https://webdriver.io/favicon.ico",
+        "credits": "Open source community",
+        "owner": "Open source",
+        "foundedIn": "2015",
+        "shortDescription": "Customizable test automation framework for WebDriver protocol.",
+        "overview": "Built on Node.js for Selenium WebDriver compliant automation.",
+        "tutorialURLs": [
+            "https://webdriver.io/docs/gettingstarted"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 70
+    },
+    {
+        "userId": 90,
+        "name": "Protractor.js",
+        "websiteUrl": "https://www.protractortest.org/",
+        "tag": "Protractor",
+        "hashtags": [
+            "#Protractor",
+            "#TestAutomation",
+            "#Angular"
+        ],
+        "tags": [
+            "test automation",
+            "protractor",
+            "angular",
+            "QA"
+        ],
+        "kind": "Testing Framework",
+        "keywords": [
+            "Protractor",
+            "angular testing",
+            "automation"
+        ],
+        "category": "Software Testing",
+        "popularity": 60,
+        "score": 6.5,
+        "rank": 65,
+        "version": "7.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "Google",
+        "owner": "Google",
+        "foundedIn": "2013",
+        "shortDescription": "End-to-end testing framework for Angular and AngularJS.",
+        "overview": "Built on WebDriverJS for Angular applications.",
+        "tutorialURLs": [
+            "https://www.protractortest.org/#/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 71
+    },
+    {
+        "userId": 91,
+        "name": "Mocha",
+        "websiteUrl": "https://mochajs.org/",
+        "tag": "Mocha",
+        "hashtags": [
+            "#Mocha",
+            "#JavaScript",
+            "#Testing"
+        ],
+        "tags": [
+            "testing",
+            "mocha",
+            "javascript",
+            "nodejs"
+        ],
+        "kind": "Testing Framework",
+        "keywords": [
+            "Mocha",
+            "JavaScript testing",
+            "unit test",
+            "nodejs"
+        ],
+        "category": "Software Testing",
+        "popularity": 80,
+        "score": 8,
+        "rank": 25,
+        "version": "10.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "TJ Holowaychuk",
+        "owner": "Open Source",
+        "foundedIn": "2011",
+        "shortDescription": "Feature-rich JavaScript test framework running on Node.js.",
+        "overview": "Supports asynchronous testing and browser support.",
+        "tutorialURLs": [
+            "https://mochajs.org/#getting-started"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 72
+    },
+    {
+        "userId": 92,
+        "name": "LoadRunner",
+        "websiteUrl": "https://microfocus.com/en-us/products/loadrunner-professional/overview",
+        "tag": "LoadRunner",
+        "hashtags": [
+            "#LoadRunner",
+            "#PerformanceTesting"
+        ],
+        "tags": [
+            "performance testing",
+            "load testing",
+            "microfocus"
+        ],
+        "kind": "Testing Tool",
+        "keywords": [
+            "LoadRunner",
+            "performance testing",
+            "load testing"
+        ],
+        "category": "Software Testing",
+        "popularity": 75,
+        "score": 7.5,
+        "rank": 45,
+        "version": "2023",
+        "logo": "",
+        "favicon": "",
+        "credits": "Micro Focus",
+        "owner": "Micro Focus",
+        "foundedIn": "1997",
+        "shortDescription": "Performance testing tool for analyzing system behavior.",
+        "overview": "Simulates multiple users to test application performance under load.",
+        "tutorialURLs": [
+            "https://admhelp.microfocus.com/lr/en/latest/help.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 73
+    },
+    {
+        "userId": 93,
+        "name": "Karma",
+        "websiteUrl": "https://karma-runner.github.io/latest/index.html",
+        "tag": "Karma",
+        "hashtags": [
+            "#Karma",
+            "#JavaScript",
+            "#Testing"
+        ],
+        "tags": [
+            "test runner",
+            "javascript",
+            "unit testing"
+        ],
+        "kind": "Testing Framework",
+        "keywords": [
+            "Karma",
+            "test runner",
+            "JavaScript"
+        ],
+        "category": "Software Testing",
+        "popularity": 70,
+        "score": 7,
+        "rank": 55,
+        "version": "6.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "Google",
+        "owner": "Open Source",
+        "foundedIn": "2013",
+        "shortDescription": "JavaScript test runner compatible with multiple frameworks.",
+        "overview": "Runs tests in real browsers and provides instant feedback.",
+        "tutorialURLs": [
+            "https://karma-runner.github.io/latest/index.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 74
+    },
+    {
+        "userId": 94,
+        "name": "BrowserStack",
+        "websiteUrl": "https://www.browserstack.com/",
+        "tag": "BrowserStack",
+        "hashtags": [
+            "#BrowserStack",
+            "#CrossBrowserTesting"
+        ],
+        "tags": [
+            "cross-browser testing",
+            "automated testing",
+            "cloud"
+        ],
+        "kind": "Testing Platform",
+        "keywords": [
+            "BrowserStack",
+            "cross-browser testing",
+            "cloud testing"
+        ],
+        "category": "Software Testing",
+        "popularity": 85,
+        "score": 8.7,
+        "rank": 20,
+        "version": "Latest",
+        "logo": "https://www.browserstack.com/favicon.ico",
+        "favicon": "https://www.browserstack.com/favicon.ico",
+        "credits": "BrowserStack",
+        "owner": "BrowserStack",
+        "foundedIn": "2011",
+        "shortDescription": "Cloud platform for cross-browser testing.",
+        "overview": "Enables testing websites and mobile applications across browsers and devices.",
+        "tutorialURLs": [
+            "https://www.browserstack.com/docs"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 75
+    },
+    {
+        "userId": 95,
+        "name": "Puppeteer",
+        "websiteUrl": "https://pptr.dev/",
+        "tag": "Puppeteer",
+        "hashtags": [
+            "#Puppeteer",
+            "#HeadlessBrowser",
+            "#Testing"
+        ],
+        "tags": [
+            "puppeteer",
+            "headless browser",
+            "automation",
+            "testing"
+        ],
+        "kind": "Testing Library",
+        "keywords": [
+            "Puppeteer",
+            "automation",
+            "headless browser",
+            "testing"
+        ],
+        "category": "Software Testing",
+        "popularity": 70,
+        "score": 7.2,
+        "rank": 60,
+        "version": "20.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "Google",
+        "owner": "Open Source",
+        "foundedIn": "2017",
+        "shortDescription": "Node library for controlling Chrome/Chromium over DevTools Protocol.",
+        "overview": "Used for automated testing of UI with headless or full browser.",
+        "tutorialURLs": [
+            "https://pptr.dev/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 76
+    },
+    {
+        "userId": 96,
+        "name": "Appium",
+        "websiteUrl": "https://appium.io/",
+        "tag": "Appium",
+        "hashtags": [
+            "#Appium",
+            "#MobileTesting"
+        ],
+        "tags": [
+            "appium",
+            "mobile",
+            "automation",
+            "testing"
+        ],
+        "kind": "Testing Framework",
+        "keywords": [
+            "Appium",
+            "mobile automation",
+            "UI testing"
+        ],
+        "category": "Software Testing",
+        "popularity": 75,
+        "score": 7.8,
+        "rank": 45,
+        "version": "2.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "Appium Devs",
+        "owner": "Open Source",
+        "foundedIn": "2011",
+        "shortDescription": "Open-source test automation framework for mobile apps.",
+        "overview": "Supports native, hybrid, and mobile web app testing on iOS and Android.",
+        "tutorialURLs": [
+            "https://appium.io/docs/en/about-appium/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 77
+    },
+    {
+        "userId": 97,
+        "name": "SoapUI",
+        "websiteUrl": "https://www.soapui.org/",
+        "tag": "SoapUI",
+        "hashtags": [
+            "#SoapUI",
+            "#APItesting",
+            "#Webservices"
+        ],
+        "tags": [
+            "SOAP",
+            "REST",
+            "API testing"
+        ],
+        "kind": "Testing Tool",
+        "keywords": [
+            "SoapUI",
+            "API testing",
+            "web services"
+        ],
+        "category": "Software Testing",
+        "popularity": 70,
+        "score": 7.2,
+        "rank": 58,
+        "version": "5.7.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "SmartBear Software",
+        "owner": "SmartBear",
+        "foundedIn": "2005",
+        "shortDescription": "Functional testing tool for SOAP and REST APIs.",
+        "overview": "Helps test web services and APIs for functionality and performance.",
+        "tutorialURLs": [
+            "https://www.soapui.org/docs/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 78
+    },
+    {
+        "userId": 98,
+        "name": "Postman",
+        "websiteUrl": "https://www.postman.com/",
+        "tag": "Postman",
+        "hashtags": [
+            "#Postman",
+            "#API",
+            "#Testing"
+        ],
+        "tags": [
+            "API",
+            "testing",
+            "automation"
+        ],
+        "kind": "API Development Tool",
+        "keywords": [
+            "Postman",
+            "API testing",
+            "development"
+        ],
+        "category": "Software Development",
+        "popularity": 90,
+        "score": 8.9,
+        "rank": 15,
+        "version": "Latest",
+        "logo": "https://www.postman.com/assets/logos/postman-logo-stacked.svg",
+        "favicon": "https://www.postman.com/favicon.ico",
+        "credits": "Postman Inc.",
+        "owner": "Postman Inc.",
+        "foundedIn": "2012",
+        "shortDescription": "API development environment to design, test, and document APIs.",
+        "overview": "Widely used for API testing and collaboration.",
+        "tutorialURLs": [
+            "https://learning.postman.com/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 79
+    },
+    {
+        "userId": 99,
+        "name": "JMeter",
+        "websiteUrl": "https://jmeter.apache.org/",
+        "tag": "JMeter",
+        "hashtags": [
+            "#JMeter",
+            "#PerformanceTesting"
+        ],
+        "tags": [
+            "performance testing",
+            "load testing"
+        ],
+        "kind": "Testing Tool",
+        "keywords": [
+            "JMeter",
+            "load testing",
+            "performance testing"
+        ],
+        "category": "Software Testing",
+        "popularity": 80,
+        "score": 8,
+        "rank": 40,
+        "version": "5.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "Apache Software Foundation",
+        "owner": "Apache Software Foundation",
+        "foundedIn": "1998",
+        "shortDescription": "Open-source load and performance testing tool.",
+        "overview": "Simulates heavy loads and measures performance and reliability.",
+        "tutorialURLs": [
+            "https://jmeter.apache.org/usermanual/index.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 80
+    },
+    {
+        "userId": 100,
+        "name": "Cucumber",
+        "websiteUrl": "https://cucumber.io/",
+        "tag": "Cucumber",
+        "hashtags": [
+            "#Cucumber",
+            "#BDD",
+            "#Testing"
+        ],
+        "tags": [
+            "bdd",
+            "testing",
+            "automation"
+        ],
+        "kind": "Testing Tool",
+        "keywords": [
+            "Cucumber",
+            "BDD",
+            "behavior driven development"
+        ],
+        "category": "Software Testing",
+        "popularity": 75,
+        "score": 7.5,
+        "rank": 50,
+        "version": "7.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "Cucumber Ltd.",
+        "owner": "Cucumber Ltd.",
+        "foundedIn": "2008",
+        "shortDescription": "BDD testing tool supporting executable specifications.",
+        "overview": "Facilitates collaboration between developers and business stakeholders.",
+        "tutorialURLs": [
+            "https://cucumber.io/docs"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 81
+    },
+    {
+        "userId": 101,
+        "name": "WordPress",
+        "websiteUrl": "https://wordpress.org/",
+        "tag": "WordPress",
+        "hashtags": [
+            "#WordPress",
+            "#CMS",
+            "#WebDevelopment"
+        ],
+        "tags": [
+            "CMS",
+            "web development",
+            "blogging",
+            "PHP"
+        ],
+        "kind": "Content Management System",
+        "keywords": [
+            "WordPress",
+            "CMS",
+            "website builder"
+        ],
+        "category": "Web Development",
+        "popularity": 98,
+        "score": 9.8,
+        "rank": 1,
+        "version": "6.x",
+        "logo": "https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png",
+        "favicon": "https://s.w.org/favicon.ico",
+        "credits": "WordPress Foundation",
+        "owner": "WordPress Foundation",
+        "foundedIn": "2003",
+        "shortDescription": "Open-source content management system powering the web.",
+        "overview": "WordPress is widely used for creating websites and blogs with a strong plugin ecosystem.",
+        "tutorialURLs": [
+            "https://wordpress.org/support/article/new-to-wordpress-where-to-start/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 82
+    },
+    {
+        "userId": 102,
+        "name": "Angular",
+        "websiteUrl": "https://angular.io/",
+        "tag": "Angular",
+        "hashtags": [
+            "#Angular",
+            "#WebDevelopment",
+            "#SPA"
+        ],
+        "tags": [
+            "Angular",
+            "web framework",
+            "JavaScript",
+            "SPA"
+        ],
+        "kind": "Web Framework",
+        "keywords": [
+            "Angular",
+            "JavaScript",
+            "SPA",
+            "TypeScript"
+        ],
+        "category": "Web Development",
+        "popularity": 92,
+        "score": 9.2,
+        "rank": 5,
+        "version": "15",
+        "logo": "https://angular.io/assets/images/logos/angular/angular.svg",
+        "favicon": "https://angular.io/favicon.ico",
+        "credits": "Google",
+        "owner": "Google",
+        "foundedIn": "2010",
+        "shortDescription": "Platform and framework for building single-page client applications.",
+        "overview": "Angular enables development of high-performance web applications using TypeScript.",
+        "tutorialURLs": [
+            "https://angular.io/tutorial"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 83
+    },
+    {
+        "userId": 103,
+        "name": "Bootstrap",
+        "websiteUrl": "https://getbootstrap.com/",
+        "tag": "Bootstrap",
+        "hashtags": [
+            "#Bootstrap",
+            "#CSS",
+            "#WebDesign"
+        ],
+        "tags": [
+            "Bootstrap",
+            "CSS framework",
+            "responsive design"
+        ],
+        "kind": "CSS Framework",
+        "keywords": [
+            "Bootstrap",
+            "responsive design",
+            "front-end"
+        ],
+        "category": "Web Development",
+        "popularity": 90,
+        "score": 9,
+        "rank": 8,
+        "version": "5.x",
+        "logo": "https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg",
+        "favicon": "https://getbootstrap.com/docs/5.0/assets/favicon.ico",
+        "credits": "Bootstrap Developers",
+        "owner": "Open Source",
+        "foundedIn": "2011",
+        "shortDescription": "Popular CSS framework for building responsive websites.",
+        "overview": "Includes pre-designed components and utilities for faster web development.",
+        "tutorialURLs": [
+            "https://getbootstrap.com/docs/5.0/getting-started/introduction/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 84
+    },
+    {
+        "userId": 104,
+        "name": "CodeIgniter",
+        "websiteUrl": "https://codeigniter.com/",
+        "tag": "CodeIgniter",
+        "hashtags": [
+            "#CodeIgniter",
+            "#PHP",
+            "#Framework"
+        ],
+        "tags": [
+            "PHP",
+            "web framework",
+            "MVC"
+        ],
+        "kind": "Web Framework",
+        "keywords": [
+            "CodeIgniter",
+            "PHP",
+            "MVC",
+            "web development"
+        ],
+        "category": "Web Development",
+        "popularity": 75,
+        "score": 7.5,
+        "rank": 40,
+        "version": "4.x",
+        "logo": "https://codeigniter.com/assets/img/ci-logo.png",
+        "favicon": "https://codeigniter.com/favicon.ico",
+        "credits": "EllisLab",
+        "owner": "Open Source",
+        "foundedIn": "2006",
+        "shortDescription": "Lightweight PHP framework with MVC pattern.",
+        "overview": "Enables rapid development with minimal configuration.",
+        "tutorialURLs": [
+            "https://codeigniter.com/user_guide/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 85
+    },
+    {
+        "userId": 105,
+        "name": "Express.js",
+        "websiteUrl": "https://expressjs.com/",
+        "tag": "Express.js",
+        "hashtags": [
+            "#ExpressJS",
+            "#Nodejs",
+            "#Backend"
+        ],
+        "tags": [
+            "Node.js",
+            "web framework",
+            "backend"
+        ],
+        "kind": "Web Framework",
+        "keywords": [
+            "Express.js",
+            "Node.js",
+            "server",
+            "backend"
+        ],
+        "category": "Web Development",
+        "popularity": 85,
+        "score": 8.3,
+        "rank": 20,
+        "version": "4.x",
+        "logo": "https://expressjs.com/images/express-facebook-share.png",
+        "favicon": "https://expressjs.com/favicon-32x32.png",
+        "credits": "TJ Holowaychuk",
+        "owner": "Open Source",
+        "foundedIn": "2010",
+        "shortDescription": "Minimalist web framework for Node.js.",
+        "overview": "Features robust routing, middleware support, and HTTP utilities.",
+        "tutorialURLs": [
+            "https://expressjs.com/en/starter/installing.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 86
+    },
+    {
+        "userId": 106,
+        "name": "Ext.js",
+        "websiteUrl": "https://www.sencha.com/products/extjs/",
+        "tag": "Ext.js",
+        "hashtags": [
+            "#ExtJS",
+            "#JavaScript",
+            "#Web"
+        ],
+        "tags": [
+            "JavaScript",
+            "web framework",
+            "UI components"
+        ],
+        "kind": "Web Framework",
+        "keywords": [
+            "Ext.js",
+            "JavaScript",
+            "UI framework"
+        ],
+        "category": "Web Development",
+        "popularity": 65,
+        "score": 6.5,
+        "rank": 60,
+        "version": "7.x",
+        "logo": "https://cdn.sencha.com/ext/gpl/7.4.0/build/classic/theme-triton/resources/extjs-logo.png",
+        "favicon": "https://cdn.sencha.com/ext/gpl/7.4.0/build/classic/theme-triton/resources/favicon.ico",
+        "credits": "Sencha",
+        "owner": "Sencha",
+        "foundedIn": "2007",
+        "shortDescription": "JavaScript framework for building interactive web apps.",
+        "overview": "Includes rich UI components and data package modules.",
+        "tutorialURLs": [
+            "https://docs.sencha.com/extjs/7.4.0/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 87
+    },
+    {
+        "userId": 107,
+        "name": "JSF",
+        "websiteUrl": "https://jakarta.ee/specifications/faces/",
+        "tag": "JavaServer Faces (JSF)",
+        "hashtags": [
+            "#JSF",
+            "#Java",
+            "#Web"
+        ],
+        "tags": [
+            "Java",
+            "web framework",
+            "component based"
+        ],
+        "kind": "Web Framework",
+        "keywords": [
+            "JavaServer Faces",
+            "JSF",
+            "Java",
+            "component"
+        ],
+        "category": "Web Development",
+        "popularity": 65,
+        "score": 6.7,
+        "rank": 65,
+        "version": "3.0",
+        "logo": "https://jakarta.ee/images/logo/jakarta-logo.png",
+        "favicon": "https://jakarta.ee/favicon.ico",
+        "credits": "Eclipse Foundation",
+        "owner": "Eclipse Foundation",
+        "foundedIn": "",
+        "shortDescription": "Component-based Java web framework.",
+        "overview": "Simplifies building user interfaces for Java applications.",
+        "tutorialURLs": [
+            "https://jakarta.ee/specifications/faces/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 88
+    },
+    {
+        "userId": 108,
+        "name": "Spring Boot",
+        "websiteUrl": "https://spring.io/projects/spring-boot",
+        "tag": "Spring Boot",
+        "hashtags": [
+            "#SpringBoot",
+            "#Java",
+            "#Microservices"
+        ],
+        "tags": [
+            "Java",
+            "framework",
+            "microservices"
+        ],
+        "kind": "Web Framework",
+        "keywords": [
+            "Spring Boot",
+            "Java",
+            "microservices"
+        ],
+        "category": "Web Development",
+        "popularity": 90,
+        "score": 9,
+        "rank": 7,
+        "version": "2.x",
+        "logo": "https://spring.io/images/spring-io-logo.svg",
+        "favicon": "https://spring.io/favicon.ico",
+        "credits": "Pivotal Software",
+        "owner": "VMware",
+        "foundedIn": "2014",
+        "shortDescription": "Java framework for building production-ready applications.",
+        "overview": "Simplifies deployment and development of microservices and web apps.",
+        "tutorialURLs": [
+            "https://spring.io/guides/gs/spring-boot/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 89
+    },
+    {
+        "userId": 109,
+        "name": "Backbone.js",
+        "websiteUrl": "https://backbonejs.org/",
+        "tag": "Backbone.js",
+        "hashtags": [
+            "#BackboneJS",
+            "#JavaScript",
+            "#MVC"
+        ],
+        "tags": [
+            "JavaScript",
+            "MVC",
+            "framework"
+        ],
+        "kind": "Web Framework",
+        "keywords": [
+            "Backbone.js",
+            "JavaScript",
+            "MVC"
+        ],
+        "category": "Web Development",
+        "popularity": 70,
+        "score": 7,
+        "rank": 60,
+        "version": "1.4.0",
+        "logo": "",
+        "favicon": "",
+        "credits": "Jeremy Ashkenas",
+        "owner": "Open Source",
+        "foundedIn": "2010",
+        "shortDescription": "Lightweight MVC framework for JavaScript applications.",
+        "overview": "Provides structure to web applications by models, views, and collections.",
+        "tutorialURLs": [
+            "https://backbonejs.org/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 90
+    },
+    {
+        "userId": 110,
+        "name": "Socket.io",
+        "websiteUrl": "https://socket.io/",
+        "tag": "Socket.io",
+        "hashtags": [
+            "#SocketIO",
+            "#Realtime",
+            "#JavaScript"
+        ],
+        "tags": [
+            "websocket",
+            "realtime",
+            "JavaScript"
+        ],
+        "kind": "Library",
+        "keywords": [
+            "Socket.io",
+            "realtime communication",
+            "websockets"
+        ],
+        "category": "Web Development",
+        "popularity": 85,
+        "score": 8.5,
+        "rank": 25,
+        "version": "4.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "Guillermo Rauch",
+        "owner": "Open Source",
+        "foundedIn": "2010",
+        "shortDescription": "JavaScript library for realtime web applications.",
+        "overview": "Enables bidirectional communication between web clients and servers.",
+        "tutorialURLs": [
+            "https://socket.io/docs/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 91
+    },
+    {
+        "userId": 111,
+        "name": "Node.js",
+        "websiteUrl": "https://nodejs.org/",
+        "tag": "Node.js",
+        "hashtags": [
+            "#NodeJS",
+            "#JavaScript",
+            "#Server"
+        ],
+        "tags": [
+            "server",
+            "JavaScript",
+            "runtime"
+        ],
+        "kind": "Runtime Environment",
+        "keywords": [
+            "Node.js",
+            "JavaScript",
+            "server-side runtime"
+        ],
+        "category": "Web Development",
+        "popularity": 97,
+        "score": 9.7,
+        "rank": 1,
+        "version": "20.x",
+        "logo": "https://nodejs.org/static/images/logo.svg",
+        "favicon": "https://nodejs.org/favicon.ico",
+        "credits": "Ryan Dahl",
+        "owner": "OpenJS Foundation",
+        "foundedIn": "2009",
+        "shortDescription": "JavaScript runtime built on Chrome's V8 engine.",
+        "overview": "Enables development of scalable network applications using JavaScript.",
+        "tutorialURLs": [
+            "https://nodejs.org/en/docs/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 92
+    },
+    {
+        "userId": 112,
+        "name": "jQuery",
+        "websiteUrl": "https://jquery.com/",
+        "tag": "jQuery",
+        "hashtags": [
+            "#jQuery",
+            "#JavaScript"
+        ],
+        "tags": [
+            "JavaScript",
+            "library",
+            "DOM manipulation"
+        ],
+        "kind": "Library",
+        "keywords": [
+            "jQuery",
+            "JavaScript",
+            "DOM",
+            "library"
+        ],
+        "category": "Web Development",
+        "popularity": 80,
+        "score": 8,
+        "rank": 35,
+        "version": "3.6.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "John Resig",
+        "owner": "Open Source",
+        "foundedIn": "2006",
+        "shortDescription": "Fast, small, and feature-rich JavaScript library.",
+        "overview": "Simplifies HTML document traversal, event handling, and Ajax interactions.",
+        "tutorialURLs": [
+            "https://jquery.com/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 93
+    },
+    {
+        "userId": 113,
+        "name": "knockout.js",
+        "websiteUrl": "https://knockoutjs.com/",
+        "tag": "Knockout.js",
+        "hashtags": [
+            "#KnockoutJS",
+            "#JavaScript",
+            "#MVVM"
+        ],
+        "tags": [
+            "JavaScript",
+            "MVVM",
+            "library"
+        ],
+        "kind": "Library",
+        "keywords": [
+            "Knockout.js",
+            "JavaScript",
+            "MVVM",
+            "observable"
+        ],
+        "category": "Web Development",
+        "popularity": 65,
+        "score": 6.5,
+        "rank": 65,
+        "version": "3.5.x",
+        "logo": "",
+        "favicon": "",
+        "credits": "Steve Sanderson",
+        "owner": "Open Source",
+        "foundedIn": "2010",
+        "shortDescription": "JavaScript library for MVVM bindings.",
+        "overview": "Simplifies dynamic UI by providing declarative bindings and dependency tracking.",
+        "tutorialURLs": [
+            "https://knockoutjs.com/documentation/introduction.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 94
+    },
+    {
+        "userId": 114,
+        "name": "Visual Studio Code",
+        "websiteUrl": "https://code.visualstudio.com/",
+        "tag": "VS Code",
+        "hashtags": [
+            "#VSCode",
+            "#CodeEditor",
+            "#Microsoft"
+        ],
+        "tags": [
+            "code editor",
+            "IDE",
+            "Microsoft",
+            "development tool"
+        ],
+        "kind": "Code Editor",
+        "keywords": [
+            "Visual Studio Code",
+            "code editor",
+            "programming",
+            "extensions"
+        ],
+        "category": "Development Tools",
+        "popularity": 99,
+        "score": 9.9,
+        "rank": 1,
+        "version": "1.79",
+        "logo": "https://code.visualstudio.com/assets/images/code-stable.png",
+        "favicon": "https://code.visualstudio.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft",
+        "foundedIn": "2015",
+        "shortDescription": "Free, open-source, powerful code editor with extensive extensions.",
+        "overview": "Supports multiple languages and frameworks, with integrated Git and debugging.",
+        "tutorialURLs": [
+            "https://code.visualstudio.com/docs"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 95
+    },
+    {
+        "userId": 115,
+        "name": "GitHub Copilot",
+        "websiteUrl": "https://github.com/features/copilot",
+        "tag": "GitHub Copilot",
+        "hashtags": [
+            "#GitHub",
+            "#Copilot",
+            "#AI"
+        ],
+        "tags": [
+            "AI",
+            "code completion",
+            "GitHub",
+            "developer tool"
+        ],
+        "kind": "AI Code Completion Tool",
+        "keywords": [
+            "GitHub Copilot",
+            "AI",
+            "code completion",
+            "developer assistance"
+        ],
+        "category": "Development Tools",
+        "popularity": 90,
+        "score": 9.2,
+        "rank": 2,
+        "version": "Latest",
+        "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "favicon": "https://github.githubassets.com/favicon.ico",
+        "credits": "GitHub and OpenAI",
+        "owner": "GitHub",
+        "foundedIn": "2021",
+        "shortDescription": "AI-powered code assistant that suggests code snippets and completions.",
+        "overview": "Integrates with editors to provide AI-driven programming aid and automation.",
+        "tutorialURLs": [
+            "https://docs.github.com/en/copilot"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 96
+    },
+    {
+        "userId": 116,
+        "name": "JetBrains IntelliJ IDEA",
+        "websiteUrl": "https://www.jetbrains.com/idea/",
+        "tag": "IntelliJ IDEA",
+        "hashtags": [
+            "#JetBrains",
+            "#IDE",
+            "#Java"
+        ],
+        "tags": [
+            "IDE",
+            "Java",
+            "development",
+            "JetBrains"
+        ],
+        "kind": "Integrated Development Environment",
+        "keywords": [
+            "IntelliJ IDEA",
+            "Java",
+            "IDE",
+            "development"
+        ],
+        "category": "Development Tools",
+        "popularity": 85,
+        "score": 8.8,
+        "rank": 3,
+        "version": "2024.1",
+        "logo": "https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png",
+        "favicon": "https://www.jetbrains.com/favicon.ico",
+        "credits": "JetBrains",
+        "owner": "JetBrains",
+        "foundedIn": "2001",
+        "shortDescription": "Powerful Java IDE with extensive features for JVM and web development.",
+        "overview": "Supports smart coding assistance, refactoring, and integrated tools.",
+        "tutorialURLs": [
+            "https://www.jetbrains.com/idea/learn/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 97
+    },
+    {
+        "userId": 117,
+        "name": "Sublime Text",
+        "websiteUrl": "https://www.sublimetext.com/",
+        "tag": "Sublime Text",
+        "hashtags": [
+            "#SublimeText",
+            "#CodeEditor"
+        ],
+        "tags": [
+            "code editor",
+            "text editor",
+            "programming"
+        ],
+        "kind": "Code Editor",
+        "keywords": [
+            "Sublime Text",
+            "code editor",
+            "text editor"
+        ],
+        "category": "Development Tools",
+        "popularity": 75,
+        "score": 7.7,
+        "rank": 30,
+        "version": "4.0",
+        "logo": "https://www.sublimetext.com/images/logo.png",
+        "favicon": "https://www.sublimetext.com/favicon.ico",
+        "credits": "Sublime HQ",
+        "owner": "Sublime HQ",
+        "foundedIn": "2008",
+        "shortDescription": "Lightweight, fast, and versatile code editor.",
+        "overview": "Supports multiple programming languages and customizations.",
+        "tutorialURLs": [
+            "https://www.sublimetext.com/docs/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 98
+    },
+    {
+        "userId": 118,
+        "name": "Eclipse IDE",
+        "websiteUrl": "https://www.eclipse.org/ide/",
+        "tag": "Eclipse IDE",
+        "hashtags": [
+            "#Eclipse",
+            "#IDE",
+            "#Java"
+        ],
+        "tags": [
+            "IDE",
+            "Java",
+            "development",
+            "open source"
+        ],
+        "kind": "Integrated Development Environment",
+        "keywords": [
+            "Eclipse",
+            "IDE",
+            "Java",
+            "development"
+        ],
+        "category": "Development Tools",
+        "popularity": 75,
+        "score": 7.9,
+        "rank": 25,
+        "version": "2024-06",
+        "logo": "https://www.eclipse.org/themes/solstice/images/favicons/favicon.ico",
+        "favicon": "https://www.eclipse.org/themes/solstice/images/favicons/favicon.ico",
+        "credits": "Eclipse Foundation",
+        "owner": "Eclipse Foundation",
+        "foundedIn": "2001",
+        "shortDescription": "Open-source IDE widely used especially for Java development.",
+        "overview": "Extensible with plugins for other programming languages and tools.",
+        "tutorialURLs": [
+            "https://www.eclipse.org/ide/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 99
+    },
+    {
+        "userId": 119,
+        "name": "GitLab",
+        "websiteUrl": "https://gitlab.com/",
+        "tag": "GitLab",
+        "hashtags": [
+            "#GitLab",
+            "#DevOps",
+            "#VersionControl"
+        ],
+        "tags": [
+            "version control",
+            "DevOps",
+            "CI/CD",
+            "collaboration"
+        ],
+        "kind": "DevOps Platform",
+        "keywords": [
+            "GitLab",
+            "version control",
+            "CI/CD",
+            "DevOps"
+        ],
+        "category": "Development Tools",
+        "popularity": 80,
+        "score": 8.3,
+        "rank": 15,
+        "version": "15.x",
+        "logo": "https://about.gitlab.com/images/press/gitlab-icon-rgb.svg",
+        "favicon": "https://about.gitlab.com/favicon.ico",
+        "credits": "GitLab Inc.",
+        "owner": "GitLab Inc.",
+        "foundedIn": "2011",
+        "shortDescription": "Web-based DevOps lifecycle tool that provides Git repository management.",
+        "overview": "Integrates CI/CD, issue tracking, code review, and monitoring.",
+        "tutorialURLs": [
+            "https://docs.gitlab.com/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 100
+    },
+    {
+        "userId": 40,
+        "name": "Adobe Flex",
+        "color": "#3C3C3D",
+        "website_url": "https://www.adobe.com/devnet/flex.html",
+        "tag": "Rich Internet Applications",
+        "hashtags": [
+            "#Adobe",
+            "#Flex",
+            "#RIA"
+        ],
+        "tags": [
+            "Rich Internet Application",
+            "Flex",
+            "Flash"
+        ],
+        "kind": "Application Framework",
+        "keywords": [
+            "Flex",
+            "Adobe",
+            "RIA"
+        ],
+        "category": "Application Development",
+        "popularity": 65,
+        "score": 70,
+        "rank": 15,
+        "version": "4.6",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Adobe_Flex_logo.png",
+        "favicon": "https://www.adobe.com/favicon.ico",
+        "credits": "Adobe Inc.",
+        "owner": "Adobe Systems",
+        "founded_in": "1982",
+        "short_description": "Adobe Flex is a framework for building expressive web and mobile applications targeting Flash platform.",
+        "overview": "Flex allows developers to create cross-platform RIAs (Rich Internet Applications) using MXML and ActionScript.",
+        "tutorial_urls": [
+            "https://helpx.adobe.com/flex/tutorials.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 101
+    },
+    {
+        "userId": 2,
+        "name": "ANE (AIR Native Extension)",
+        "color": "#FF0000",
+        "website_url": "https://www.adobe.com/devnet/air/ane.html",
+        "tag": "Adobe AIR Extension",
+        "hashtags": [
+            "#Adobe",
+            "#ANE",
+            "#MobileDev"
+        ],
+        "tags": [
+            "Adobe AIR",
+            "Extension",
+            "Mobile"
+        ],
+        "kind": "SDK",
+        "keywords": [
+            "ANE",
+            "Adobe AIR",
+            "Extension",
+            "Mobile Development"
+        ],
+        "category": "Mobile Development",
+        "popularity": 75,
+        "score": 88,
+        "rank": 12,
+        "version": "33.1.1.444",
+        "logo": "https://www.adobe.com/content/dam/cc/icons/air.svg",
+        "favicon": "https://www.adobe.com/favicon.ico",
+        "credits": "Adobe Inc.",
+        "owner": "Adobe Systems",
+        "founded_in": "1982",
+        "short_description": "Adobe AIR Native Extensions enable Adobe AIR developers to add native code functionality to apps.",
+        "overview": "Extend Adobe AIR apps with native code functionalities on mobile and desktop platforms.",
+        "tutorial_urls": [
+            "https://help.adobe.com/en_US/air/extensions/WS2f3b8a1773e4dcfc-46d5013012b51eb60ff-8000.html"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 102
+    },
+    {
+        "userId": 8,
+        "name": "CRM (Customer Relationship Management)",
+        "color": "#00A1E0",
+        "website_url": "https://www.salesforce.com/products/crm/overview/",
+        "tag": "CRM",
+        "hashtags": [
+            "#CRM",
+            "#Salesforce"
+        ],
+        "tags": [
+            "CRM",
+            "Salesforce",
+            "Customer Management"
+        ],
+        "kind": "Business Software",
+        "keywords": [
+            "CRM",
+            "Customer",
+            "Salesforce"
+        ],
+        "category": "Business",
+        "popularity": 98,
+        "score": 95,
+        "rank": 1,
+        "version": "Winter '25",
+        "logo": "https://www.salesforce.com/content/dam/web/en_us/www/images/logos/salesforce-logo.svg",
+        "favicon": "https://www.salesforce.com/favicon.ico",
+        "credits": "Salesforce, Inc.",
+        "owner": "Salesforce",
+        "founded_in": "1999",
+        "short_description": "Manage and optimize customer relationships with Salesforce CRM.",
+        "overview": "Salesforce’s cloud-based CRM platform is popular for customer data and sales process management.",
+        "tutorial_urls": [
+            "https://trailhead.salesforce.com/en/content/learn/trails/learn-crm-basics"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 103
+    },
+    {
+        "userId": 85,
+        "name": "SonarQube",
+        "color": "#3EBA2B",
+        "website_url": "https://www.sonarqube.org/",
+        "tag": "Code Quality",
+        "hashtags": [
+            "#SonarQube",
+            "#CodeQuality",
+            "#StaticAnalysis"
+        ],
+        "tags": [
+            "SonarQube",
+            "Code Quality",
+            "Static Analysis",
+            "Security"
+        ],
+        "kind": "Code Quality Platform",
+        "keywords": [
+            "SonarQube",
+            "Static Code Analysis",
+            "Code Quality"
+        ],
+        "category": "Quality Assurance",
+        "popularity": 85,
+        "score": 90,
+        "rank": 6,
+        "version": "9.9",
+        "logo": "https://www.sonarqube.org/images/sonarqube-logo.png",
+        "favicon": "https://www.sonarqube.org/favicon.ico",
+        "credits": "SonarSource",
+        "owner": "SonarSource",
+        "founded_in": "2008",
+        "short_description": "SonarQube is a platform for continuous inspection of code quality.",
+        "overview": "SonarQube provides static code analysis to detect bugs, code smells, and security vulnerabilities.",
+        "tutorial_urls": [
+            "https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 104
+    },
+    {
+        "userId": 99,
+        "name": "AJAX",
+        "color": "#F1511B",
+        "website_url": "https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX",
+        "tag": "Asynchronous JavaScript",
+        "hashtags": [
+            "#AJAX",
+            "#JavaScript",
+            "#XMLHttpRequest"
+        ],
+        "tags": [
+            "AJAX",
+            "JavaScript",
+            "AJAX"
+        ],
+        "kind": "Web Development Technique",
+        "keywords": [
+            "AJAX",
+            "Asynchronous",
+            "JavaScript",
+            "XMLHttpRequest"
+        ],
+        "category": "Web Development",
+        "popularity": 90,
+        "score": 88,
+        "rank": 10,
+        "version": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/AJAX_logo_by_greasemonkey.svg",
+        "favicon": "",
+        "credits": "",
+        "owner": "",
+        "founded_in": "",
+        "short_description": "AJAX is a set of web development techniques allowing asynchronous data exchange between client and server.",
+        "overview": "Ajax enables web pages to update asynchronously by exchanging small amounts of data with the server behind the scenes.",
+        "tutorial_urls": [
+            "https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 105
+    },
+    {
+        "userId": 100,
+        "name": "ASPX",
+        "color": "#6A5ACD",
+        "website_url": "https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview",
+        "tag": "Web Development",
+        "hashtags": [
+            "#ASPX",
+            "#ASPnet",
+            "#WebForms"
+        ],
+        "tags": [
+            "ASPX",
+            "ASP.NET Web Forms",
+            "Web Development"
+        ],
+        "kind": "Web Framework",
+        "keywords": [
+            "ASPX",
+            "ASP.NET",
+            "Web Forms"
+        ],
+        "category": "Web Development",
+        "popularity": 75,
+        "score": 73,
+        "rank": 14,
+        "version": "4.5",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/ASP.NET_logo.svg",
+        "favicon": "https://docs.microsoft.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft",
+        "founded_in": "2002",
+        "short_description": "ASPX is an extension for ASP.NET Web Forms pages used to build interactive websites.",
+        "overview": "ASPX pages are a key part of the ASP.NET Web Forms framework facilitating event-driven web applications.",
+        "tutorial_urls": [
+            "https://docs.microsoft.com/en-us/aspnet/web-forms"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 106
+    },
+    {
+        "userId": 101,
+        "name": "CSS3",
+        "color": "#264DE4",
+        "website_url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3",
+        "tag": "Styling",
+        "hashtags": [
+            "#CSS3",
+            "#WebDesign",
+            "#Frontend"
+        ],
+        "tags": [
+            "CSS3",
+            "Web Design",
+            "Styling"
+        ],
+        "kind": "Styling Language",
+        "keywords": [
+            "CSS3",
+            "Stylesheets",
+            "Web Design"
+        ],
+        "category": "Frontend Development",
+        "popularity": 99,
+        "score": 97,
+        "rank": 2,
+        "version": "3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg",
+        "favicon": "",
+        "credits": "W3C",
+        "owner": "World Wide Web Consortium",
+        "founded_in": "1996",
+        "short_description": "CSS3 is the latest evolution of the Cascading Style Sheets language for styling web content.",
+        "overview": "CSS3 adds new selectors, properties, animations, transitions, and layout capabilities.",
+        "tutorial_urls": [
+            "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 107
+    },
+    {
+        "userId": 102,
+        "name": "HTML5",
+        "color": "#E34F26",
+        "website_url": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5",
+        "tag": "Markup Language",
+        "hashtags": [
+            "#HTML5",
+            "#WebDevelopment",
+            "#Markup"
+        ],
+        "tags": [
+            "HTML5",
+            "Markup Language",
+            "Web Development"
+        ],
+        "kind": "Markup Language",
+        "keywords": [
+            "HTML5",
+            "Web",
+            "Markup"
+        ],
+        "category": "Frontend Development",
+        "popularity": 99,
+        "score": 98,
+        "rank": 1,
+        "version": "5",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+        "favicon": "",
+        "credits": "W3C",
+        "owner": "World Wide Web Consortium",
+        "founded_in": "1991",
+        "short_description": "HTML5 is the fifth major revision of the HTML standard for structuring and presenting content on the web.",
+        "overview": "HTML5 introduces new elements, attributes, and behaviors to build modern interactive web apps.",
+        "tutorial_urls": [
+            "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 108
+    },
+    {
+        "userId": 103,
+        "name": "JSP",
+        "color": "#007396",
+        "website_url": "https://www.geeksforgeeks.org/advance-java/introduction-to-jsp/",
+        "tag": "Java Server Pages",
+        "hashtags": [
+            "#JSP",
+            "#Java",
+            "#WebDevelopment"
+        ],
+        "tags": [
+            "JSP",
+            "Java",
+            "Web Development"
+        ],
+        "kind": "Server-side Technology",
+        "keywords": [
+            "JSP",
+            "Java Server Pages",
+            "Dynamic Web Pages"
+        ],
+        "category": "Web Development",
+        "popularity": 85,
+        "score": 88,
+        "rank": 13,
+        "version": "2.3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Java_logo_icon.svg",
+        "favicon": "https://www.oracle.com/favicon.ico",
+        "credits": "Oracle Corporation",
+        "owner": "Oracle",
+        "founded_in": "1997",
+        "short_description": "JSP allows embedding Java code in HTML to create dynamic web pages.",
+        "overview": "JavaServer Pages (JSP) is a technology for developing web pages that support dynamic content, combining HTML and Java.",
+        "tutorial_urls": [
+            "https://www.geeksforgeeks.org/advance-java/introduction-to-jsp/",
+            "https://www.coursera.org/articles/jsp-vs-servlet"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 109
+    },
+    {
+        "userId": 104,
+        "name": "Java Applets",
+        "color": "#5382A1",
+        "website_url": "https://www.oracle.com/java/technologies/javase/javaplatform.html",
+        "tag": "Java Applets",
+        "hashtags": [
+            "#Java",
+            "#Applets",
+            "#Web"
+        ],
+        "tags": [
+            "Java",
+            "Applet",
+            "Web"
+        ],
+        "kind": "Client-side Technology",
+        "keywords": [
+            "Java",
+            "Applet",
+            "Browser Plugin"
+        ],
+        "category": "Legacy Web Development",
+        "popularity": 40,
+        "score": 50,
+        "rank": 50,
+        "version": "1.8",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+        "favicon": "https://www.oracle.com/favicon.ico",
+        "credits": "Oracle Corporation",
+        "owner": "Oracle",
+        "founded_in": "1995",
+        "short_description": "Java Applets are old small application programs embedded in web pages.",
+        "overview": "Java Applets run in browsers through Java Plugin, allowing interactive features but now mostly deprecated.",
+        "tutorial_urls": [
+            "https://docs.oracle.com/javase/tutorial/deployment/applet/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 110
+    },
+    {
+        "userId": 105,
+        "name": "Razor",
+        "color": "#512BD4",
+        "website_url": "https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor",
+        "tag": "View Engine",
+        "hashtags": [
+            "#Razor",
+            "#ASP.NET",
+            "#MVC"
+        ],
+        "tags": [
+            "Razor",
+            "ASP.NET",
+            "MVC",
+            "View Engine"
+        ],
+        "kind": "Web View Engine",
+        "keywords": [
+            "Razor",
+            "ASP.NET",
+            "MVC",
+            "View Engine"
+        ],
+        "category": "Web Development",
+        "popularity": 75,
+        "score": 82,
+        "rank": 15,
+        "version": "2.2",
+        "logo": "https://dotnet.microsoft.com/static/images/redesign/social/symbol-logo.png",
+        "favicon": "https://dotnet.microsoft.com/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft",
+        "founded_in": "2002",
+        "short_description": "Razor is a markup syntax that lets you embed server-based code into web pages.",
+        "overview": "Razor is a templating engine used in ASP.NET to dynamically generate web content.",
+        "tutorial_urls": [
+            "https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 111
+    },
+    {
+        "userId": 106,
+        "name": "Dedicated Server",
+        "color": "#000000",
+        "website_url": "https://en.wikipedia.org/wiki/Dedicated_server",
+        "tag": "Hosting",
+        "hashtags": [
+            "#DedicatedServer",
+            "#Hosting"
+        ],
+        "tags": [
+            "Hosting",
+            "Dedicated Server",
+            "Infrastructure"
+        ],
+        "kind": "Hosting Service",
+        "keywords": [
+            "Dedicated Server",
+            "Hosting",
+            "Physical Server"
+        ],
+        "category": "Infrastructure",
+        "popularity": 70,
+        "score": 75,
+        "rank": 20,
+        "version": "",
+        "logo": "",
+        "favicon": "",
+        "credits": "",
+        "owner": "",
+        "founded_in": "",
+        "short_description": "A dedicated server is a physical server fully dedicated to one client",
+        "overview": "Dedicated servers provide hosting where a server is exclusively rented to a single client.",
+        "tutorial_urls": [
+            "https://www.cloudflare.com/learning/ddos/glossary/dedicated-server/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 112
+    },
+    {
+        "userId": 107,
+        "name": "Shared Server Hosting",
+        "color": "#0A74DA",
+        "website_url": "https://en.wikipedia.org/wiki/Shared_web_hosting_service",
+        "tag": "Hosting",
+        "hashtags": [
+            "#SharedHosting",
+            "#Hosting"
+        ],
+        "tags": [
+            "Hosting",
+            "Shared Hosting",
+            "Web Hosting"
+        ],
+        "kind": "Hosting Service",
+        "keywords": [
+            "Shared Hosting",
+            "Hosting",
+            "Web"
+        ],
+        "category": "Infrastructure",
+        "popularity": 75,
+        "score": 70,
+        "rank": 18,
+        "version": "",
+        "logo": "",
+        "favicon": "",
+        "credits": "",
+        "owner": "",
+        "founded_in": "",
+        "short_description": "Multiple websites hosted on a single server share resource costs",
+        "overview": "Shared hosting involves multiple websites sharing one physical server's resources, ideal for smaller sites.",
+        "tutorial_urls": [
+            "https://www.whoishostingthis.com/resources/shared-vs-dedicated-hosting/"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 113
+    },
+    {
+        "userId": 108,
+        "name": "GoDaddy",
+        "color": "#F7423B",
+        "website_url": "https://www.godaddy.com/",
+        "tag": "Domain & Hosting",
+        "hashtags": [
+            "#GoDaddy",
+            "#Hosting",
+            "#Domains"
+        ],
+        "tags": [
+            "Domain registrar",
+            "Hosting",
+            "Web services"
+        ],
+        "kind": "Domain Registrar and Host",
+        "keywords": [
+            "GoDaddy",
+            "Domains",
+            "Hosting"
+        ],
+        "category": "Web Services",
+        "popularity": 90,
+        "score": 90,
+        "rank": 10,
+        "version": "",
+        "logo": "https://www.godaddy.com/assets/images/logo-go.svg",
+        "favicon": "https://www.godaddy.com/favicon.ico",
+        "credits": "GoDaddy Inc.",
+        "owner": "GoDaddy",
+        "founded_in": "1997",
+        "short_description": "Provider of domain registration and web hosting services.",
+        "overview": "GoDaddy is a well-known internet domain registrar and hosting company serving millions globally.",
+        "tutorial_urls": [
+            "https://www.godaddy.com/help/learn-about-web-hosting-26584"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 114
+    },
+    {
+        "userId": 109,
+        "name": "Internet Information Services (IIS)",
+        "color": "#68217A",
+        "website_url": "https://www.iis.net/",
+        "tag": "Web Server",
+        "hashtags": [
+            "#IIS",
+            "#WebServer",
+            "#Microsoft"
+        ],
+        "tags": [
+            "IIS",
+            "Web Server",
+            "Microsoft"
+        ],
+        "kind": "Web Server",
+        "keywords": [
+            "IIS",
+            "Web Server",
+            "Microsoft"
+        ],
+        "category": "Infrastructure",
+        "popularity": 85,
+        "score": 85,
+        "rank": 7,
+        "version": "10.0",
+        "logo": "https://www.iis.net/favicon.ico",
+        "favicon": "https://www.iis.net/favicon.ico",
+        "credits": "Microsoft Corporation",
+        "owner": "Microsoft",
+        "founded_in": "1995",
+        "short_description": "IIS is a flexible, secure and manageable Web server for hosting anything on the Web.",
+        "overview": "Microsoft Internet Information Services (IIS) provides an extensible web server for hosting applications and services.",
+        "tutorial_urls": [
+            "https://docs.microsoft.com/en-us/iis/get-started/whats-new-in-iis-10"
+        ],
+        "screenshots": [],
+        "images": [],
+        "index": 115
+    }
+]

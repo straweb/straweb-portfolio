@@ -1,0 +1,85 @@
+<!-- <section class="skills-section" id="skills">
+  <div class="container">
+    <h2 class="section-title">Skills & Technologies</h2>
+    <p class="description">A collection of tools and technologies I work with</p>
+
+    <div class="skills-grid">
+      <div class="skill-card">
+        <p class="category-title">{{ (skills).length }} Skills</p>
+        <ul>
+          <li *ngFor="let item of skills | async">
+            {{ item.name }}
+          </li>
+        </ul>
+         @for (skill of skills; track skill.index) {
+          <div class="icon-wrapper">
+            <img [src]="skill.logo" [alt]="skill.name" />
+          </div>
+          <p class="skill-name">{{ skill.name }}</p>
+        } @empty {
+          <p>There are no items.</p>
+        }
+      </div>
+    </div>
+  </div>
+</section> -->
+<section id="skills" class="skills-section" style="opacity: 1;">
+  <h2 class="section-title" style="opacity: 1; transform: none;">Go through list of skills I had explored till now</h2>
+  <ul class="widget_categories">
+    <li (click)="onSelectedCategory(undefined); filteredSkills = skills">All</li>
+    <li *ngFor="let entry of groupByCategory | keyvalue"
+    (click)="onSelectedCategory(''+entry.key, entry.value)">{{ entry.key }}</li>
+  </ul>
+  <div class="skills-container">
+      <div class="skill" *ngFor="let skill of filteredSkills" (mouseenter)="onHover(skill)"
+      (mouseleave)="hoveredSkill = null"
+      [ngStyle]="{'--skill-color': skill.color}"
+      (click)="openSkillDialog(skill)">
+        <div class="skill-icon">
+          <img class="icon"
+          [src]="hoveredSkill && hoveredSkill.index == skill.index ? skill.icon : skill.icon"
+          (error)="changeImage($event, skill)" />
+          <!-- <img class="icon" [src]="hoveredSkill && hoveredSkill.index == skill.index ? skill.logo : skill.logo" appImageFallback="./str-tiger.png" (error)="swapImage($event, skill)"/> -->
+          <a href="{{skill.websiteUrl}}" target="_blank" rel="noopener noreferrer" matTooltip="{{skill.shortDescription}}">
+            <span class="skill-label">{{skill.name}}</span>
+          </a>
+        </div>
+      </div>
+  </div>
+  <!-- <div class="skills-container">
+      <div class="skill" *ngFor="let skill of skills | myCustomFilters: selectedKind : 'kind'"
+      [ngStyle]="{'--skill-color': skill.color}"
+      (click)="openSkillDialog(skill)">
+        <div class="skill-icon">
+            <img class="icon" [src]="skill.logo" />
+        </div>
+        <a href="{{skill.website_url}}" target="_blank" rel="noopener noreferrer" matTooltip="{{skill.short_description}}">
+          <span class="skill-label">{{skill.name}}</span>
+        </a>
+      </div>
+  </div> -->
+  <!-- <div class="popup" id="popup" [hidden]="selectedSkill == null">
+    <div class="popup-content">
+        <span class="close" id="close">&times;</span>
+        <h3 id="popup-skill-name">{{selectedSkill.name}}</h3>
+        <div class="selected-skill-details">
+          <div class="skill-icon">
+              <img class="icon" [src]="selectedSkill.logo" [alt]="selectedSkill.name" />
+          </div>
+          <p id="popup-skill-description">{{selectedSkill.description}}</p>
+          <a href="{{selectedSkill.website_url}}" target="_blank" id="popup-skill-link">Learn More</a>
+      </div>
+    </div>
+  </div> -->
+    <!-- @for (skill of skills; track skill.index) {
+      <div class="skill" [ngStyle]="{'--skill-color': skill.color}">
+          <div class="skill-icon">
+              <img class="icon" [src]="skill.logo" [alt]="skill.name" />
+          </div>
+          <span class="skill-label">{{skill.name}}</span>
+      </div>
+    } @empty {
+      <p>There are no items.</p>
+    }
+  </div>-->
+</section>

@@ -1,0 +1,31 @@
+<!-- <p>skill-details.component works!</p> -->
+<h1 mat-dialog-title class="title"><img class="icon" [src]="data.model.favicon" />{{ data.title }}</h1>
+<div mat-dialog-content>
+  <div class="popup-content" [ngStyle]="{'board-color': data.model.color}">
+    <div class="skill-details">
+        <p id="skill-description">{{data.model.shortDescription}}</p>
+        <div class="skill-images" >
+          <img class="icon" [src]="data.model.logo" />
+          <img class="images" *ngFor="let item of data.model.images" [src]="item" />
+          <img class="images" *ngFor="let item of data.model.screenshots" [src]="item" />
+        </div>
+        <p id="skill-overview">{{data.model.overview}}</p>
+        <p></p>
+        <p>{{"Since "+data.model.foundedIn+", by "+data.model.owner+", credits to "+data.model.credits+", latest known version "+data.model.version}}</p>
+        <p></p>
+        <p></p>
+        <ul class="skill-tags">
+          <li><a href="{{data.model.websiteUrl}}" target="_blank" >Website link </a></li>
+          <li><a *ngFor="let item of data.model.tutorialURLs" href="{{item}}" target="_blank" > Tutorial link</a> </li>
+          <li *ngFor="let item of data.model.hashtags">{{item}} </li>
+          <li>{{data.model.category}} </li>
+          <li>{{data.model.kind}} </li>
+          <li *ngFor="let item of data.model.keywords">{{item}} </li>
+        </ul>
+    </div>
+  </div>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Close</button>
+  <button mat-button [mat-dialog-close]="true" cdkFocusInitial>Ok</button>
+</div>

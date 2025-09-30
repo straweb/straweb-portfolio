@@ -1,0 +1,492 @@
+{
+    "Programming Languages & Syntax": [
+        {
+            "index": 48,
+            "name": "ActionScript"
+        },
+        {
+            "index": 49,
+            "name": "C"
+        },
+        {
+            "index": 50,
+            "name": "C++"
+        },
+        {
+            "index": 51,
+            "name": "C# .NET"
+        },
+        {
+            "index": 52,
+            "name": "Java"
+        },
+        {
+            "index": 53,
+            "name": "JavaScript"
+        },
+        {
+            "index": 54,
+            "name": "PHP"
+        },
+        {
+            "index": 24,
+            "name": "T-SQL"
+        },
+        {
+            "index": 55,
+            "name": "LINQ"
+        }
+    ],
+    "Web & Frontend Technologies": [
+        {
+            "index": 105,
+            "name": "AJAX"
+        },
+        {
+            "index": 106,
+            "name": "ASPX"
+        },
+        {
+            "index": 107,
+            "name": "CSS3"
+        },
+        {
+            "index": 108,
+            "name": "HTML5"
+        },
+        {
+            "index": 109,
+            "name": "JSP"
+        },
+        {
+            "index": 110,
+            "name": "Java Applets"
+        },
+        {
+            "index": 111,
+            "name": "Razor"
+        },
+        {
+            "index": 84,
+            "name": "Bootstrap"
+        },
+        {
+            "index": 93,
+            "name": "jQuery"
+        },
+        {
+            "index": 63,
+            "name": "REST API"
+        }
+    ],
+    "Frameworks & Runtime Environments": [
+        {
+            "index": 83,
+            "name": "Angular"
+        },
+        {
+            "index": 90,
+            "name": "Backbone.js"
+        },
+        {
+            "index": 85,
+            "name": "CodeIgniter"
+        },
+        {
+            "index": 86,
+            "name": "Express.js"
+        },
+        {
+            "index": 87,
+            "name": "Ext.js"
+        },
+        {
+            "index": 88,
+            "name": "JSF"
+        },
+        {
+            "index": 94,
+            "name": "knockout.js"
+        },
+        {
+            "index": 92,
+            "name": "Node.js"
+        },
+        {
+            "index": 91,
+            "name": "Socket.io"
+        },
+        {
+            "index": 89,
+            "name": "Spring Boot"
+        },
+        {
+            "index": 64,
+            "name": "MVC"
+        }
+    ],
+    "Development Tools & IDEs": [
+        {
+            "index": 95,
+            "name": "Visual Studio Code"
+        },
+        {
+            "index": 96,
+            "name": "GitHub Copilot"
+        },
+        {
+            "index": 97,
+            "name": "JetBrains IntelliJ IDEA"
+        },
+        {
+            "index": 98,
+            "name": "Sublime Text"
+        },
+        {
+            "index": 99,
+            "name": "Eclipse IDE"
+        },
+        {
+            "index": 31,
+            "name": "Yeoman"
+        },
+        {
+            "index": 32,
+            "name": "Grunt.js"
+        },
+        {
+            "index": 26,
+            "name": "XAMPP"
+        }
+    ],
+    "Version Control & Collaboration": [
+        {
+            "index": 27,
+            "name": "GitHub"
+        },
+        {
+            "index": 100,
+            "name": "GitLab"
+        },
+        {
+            "index": 33,
+            "name": "Git"
+        },
+        {
+            "index": 29,
+            "name": "Mercurial"
+        },
+        {
+            "index": 28,
+            "name": "SVN (Apache Subversion)"
+        },
+        {
+            "index": 34,
+            "name": "TFS (Team Foundation Server)"
+        },
+        {
+            "index": 30,
+            "name": "TortoiseSVN"
+        }
+    ],
+    "Database & ORM Technologies": [
+        {
+            "index": 25,
+            "name": "Database"
+        },
+        {
+            "index": 5,
+            "name": "MongoDB"
+        },
+        {
+            "index": 18,
+            "name": "MS Access"
+        },
+        {
+            "index": 21,
+            "name": "MS SQL"
+        },
+        {
+            "index": 22,
+            "name": "MySQL"
+        },
+        {
+            "index": 23,
+            "name": "Oracle Database"
+        },
+        {
+            "index": 17,
+            "name": "Triggers"
+        },
+        {
+            "index": 19,
+            "name": "Entity Framework"
+        },
+        {
+            "index": 20,
+            "name": "Hibernate"
+        }
+    ],
+    "Cloud Computing & Hosting": [
+        {
+            "index": 3,
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "index": 14,
+            "name": "Google Cloud Platform"
+        },
+        {
+            "index": 15,
+            "name": "Microsoft Azure"
+        },
+        {
+            "index": 112,
+            "name": "Dedicated Server"
+        },
+        {
+            "index": 114,
+            "name": "GoDaddy"
+        },
+        {
+            "index": 115,
+            "name": "Internet Information Services (IIS)"
+        },
+        {
+            "index": 113,
+            "name": "Shared Server Hosting"
+        }
+    ],
+    "Blockchain & Distributed Ledger": [
+        {
+            "index": 7,
+            "name": "Blockchain"
+        },
+        {
+            "index": 9,
+            "name": ".NET Nethereum"
+        },
+        {
+            "index": 8,
+            "name": "Etherscan API"
+        },
+        {
+            "index": 2,
+            "name": "Ethereum"
+        },
+        {
+            "index": 6,
+            "name": "Smart Contracts in Solidity"
+        }
+    ],
+    "Enterprise & Business Software": [
+        {
+            "index": 10,
+            "name": "Customer Relationship Management (CRM)"
+        },
+        {
+            "index": 103,
+            "name": "CRM (Customer Relationship Management)"
+        },
+        {
+            "index": 11,
+            "name": "ERP (Enterprise Resource Planning)"
+        },
+        {
+            "index": 4,
+            "name": "Salesforce"
+        },
+        {
+            "index": 13,
+            "name": "SAP"
+        },
+        {
+            "index": 16,
+            "name": "Microsoft Power BI"
+        },
+        {
+            "index": 12,
+            "name": "Event Management Software"
+        }
+    ],
+    "Software Development Lifecycle & Methodology": [
+        {
+            "index": 65,
+            "name": "Agile"
+        },
+        {
+            "index": 66,
+            "name": "SDLC"
+        },
+        {
+            "index": 68,
+            "name": "STLC"
+        },
+        {
+            "index": 67,
+            "name": "Waterfall Model"
+        },
+        {
+            "index": 61,
+            "name": "Kanban Board"
+        },
+        {
+            "index": 56,
+            "name": "Sprint Board"
+        }
+    ],
+    "Testing & Quality Assurance Tools": [
+        {
+            "index": 77,
+            "name": "Appium"
+        },
+        {
+            "index": 75,
+            "name": "BrowserStack"
+        },
+        {
+            "index": 81,
+            "name": "Cucumber"
+        },
+        {
+            "index": 80,
+            "name": "JMeter"
+        },
+        {
+            "index": 74,
+            "name": "Karma"
+        },
+        {
+            "index": 73,
+            "name": "LoadRunner"
+        },
+        {
+            "index": 72,
+            "name": "Mocha"
+        },
+        {
+            "index": 79,
+            "name": "Postman"
+        },
+        {
+            "index": 71,
+            "name": "Protractor.js"
+        },
+        {
+            "index": 76,
+            "name": "Puppeteer"
+        },
+        {
+            "index": 69,
+            "name": "Selenium"
+        },
+        {
+            "index": 78,
+            "name": "SoapUI"
+        },
+        {
+            "index": 70,
+            "name": "WebdriverIO"
+        },
+        {
+            "index": 104,
+            "name": "SonarQube"
+        }
+    ],
+    "Bug Tracking & Issue Management": [
+        {
+            "index": 60,
+            "name": "Bugzilla"
+        },
+        {
+            "index": 59,
+            "name": "Jira"
+        },
+        {
+            "index": 57,
+            "name": "Mantis"
+        },
+        {
+            "index": 58,
+            "name": "theBugGenie"
+        }
+    ],
+    "Cross-Platform & Mobile Development": [
+        {
+            "index": 1,
+            "name": "Adobe AIR"
+        },
+        {
+            "index": 102,
+            "name": "ANE (AIR Native Extension)"
+        },
+        {
+            "index": 45,
+            "name": "NativeScript"
+        },
+        {
+            "index": 46,
+            "name": "PhoneGap"
+        },
+        {
+            "index": 101,
+            "name": "Adobe Flex"
+        },
+        {
+            "index": 37,
+            "name": "Flex Automation"
+        }
+    ],
+    "CMS, Multimedia & Other Platforms": [
+        {
+            "index": 47,
+            "name": "Adobe Extension Manager"
+        },
+        {
+            "index": 38,
+            "name": "Adobe Flash"
+        },
+        {
+            "index": 82,
+            "name": "WordPress"
+        },
+        {
+            "index": 35,
+            "name": "Learning Management System (LMS)"
+        },
+        {
+            "index": 36,
+            "name": "Gaming Platforms"
+        },
+        {
+            "index": 39,
+            "name": "E-commerce Platforms"
+        },
+        {
+            "index": 40,
+            "name": "Online Shopping Platforms"
+        },
+        {
+            "index": 62,
+            "name": "Social Networking Platforms"
+        }
+    ],
+    "Industry Specific Software": [
+        {
+            "index": 41,
+            "name": "Banking Software"
+        },
+        {
+            "index": 42,
+            "name": "Finance Software"
+        },
+        {
+            "index": 43,
+            "name": "Healthcare Software"
+        },
+        {
+            "index": 44,
+            "name": "Telecom Software"
+        }
+    ]
+}
