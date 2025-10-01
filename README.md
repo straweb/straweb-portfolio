@@ -1,5 +1,7 @@
 # StrawebPortfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/919e7d1c-022b-476e-bb3b-79091a9192b4/deploy-status)](https://app.netlify.com/projects/straweb-portfolio/deploys)
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.3.
 
 ## Development server

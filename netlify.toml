@@ -3,6 +3,13 @@
   functions = "netlify/functions"
   publish="dist/straweb-portfolio/browser"
 
+  [build.environment]
+    # cache Cypress binary in local "node_modules" folder
+    # so Netlify caches it
+    CYPRESS_CACHE_FOLDER = "./node_modules/CypressBinary"
+    # set TERM variable for terminal output
+    TERM = "xterm"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
@@ -17,5 +24,5 @@
   [plugins.inputs]
       # Optional: Configure inputs for the plugin
       # For example, to specify a base URL for Cypress to test against
-    cypress_base_url = "http://localhost:4200"
+    #cypress_base_url = "http://localhost:4200"
     enable = false
