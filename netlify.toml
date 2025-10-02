@@ -1,14 +1,30 @@
 [build]
-  command="ng build"
+  command="echo 'Starting build' ; ng build --configuration production; echo 'Build finished'; export CYPRESS_VERIFY_TIMEOUT=100000"
   functions = "netlify/functions"
   publish="dist/straweb-portfolio/browser"
 
+    # Specify the browser to launch.
+    # Options: 'chrome', 'firefox', 'electron', 'edge'
+    # This example sets Chrome as the default browser for `cypress run`
+[context.deploy-preview.environment]
+CYPRESS_BROWSER = "electron:stable"
+
+[context.production.environment]
+CYPRESS_BROWSER = "electron:stable"
+
+[context.development.environment]
+CYPRESS_BROWSER = "electron:stable"
+
   [build.environment]
+    CYPRESS_BROWSER = "electron:stable"
+    DEBUG="commit-info,cypress:server:record,netlify-plugin-cypress,netlify-plugin-cypress:verbose"
     # cache Cypress binary in local "node_modules" folder
     # so Netlify caches it
     CYPRESS_CACHE_FOLDER = "./node_modules/CypressBinary"
     # set TERM variable for terminal output
     TERM = "xterm"
+    #targetPort = 4200
+    #browser = cypress run --browser electron:stable
 
 [[redirects]]
   from = "/*"
@@ -16,7 +32,25 @@
   status = 200
 
 [[plugins]]
+# runs Cypress tests against the deployed URL
   package = "netlify-plugin-cypress"
+
+# Use double brackets since `plugins` is an array of tables.
+[[context.production.plugins]]
+package = "@netlify/plugin-sitemap"
+
+  # start Netlify server
+  #[plugins.inputs.preBuild]
+  #  start = 'npx netlify dev'
+  #  wait-on = 'http://localhost:8888'
+
+  # let's run tests against development server
+  # before building it (and testing the built site)
+  #[plugins.inputs.preBuild]
+  #  enable = true
+  #  start = 'npm start'
+  #  wait-on = 'http://localhost:4200'
+  #  wait-on-timeout = '30' # seconds
 
   [plugins.inputs.postBuild]
     enable = true
@@ -24,5 +58,12 @@
   [plugins.inputs]
       # Optional: Configure inputs for the plugin
       # For example, to specify a base URL for Cypress to test against
-    #cypress_base_url = "http://localhost:4200"
+    #cypress_base_url = "https://straweb-portfolio.netlify.app/"
     enable = false
+    record = true
+    #start = 'npm start'
+    #wait-on = 'http://localhost:4200'
+    # must allow our test server to redirect unknown routes to "/"
+    # so that client-side routing can correctly route them
+    # can be set to true or "index.html" (or similar fallback filename in the built folder)
+    #spa = true

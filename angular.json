@@ -17,6 +17,7 @@
         "build": {
           "builder": "@angular/build:application",
           "options": {
+            "index": "src/index.html",
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
@@ -26,10 +27,12 @@
                 "input": "public"
               }
             ],
+            "scripts": [],
             "styles": [
               "src/styles.scss"
             ],
             "server": "src/main.server.ts",
+            "prerender": true,
             "outputMode": "server",
             "ssr": {
               "entry": "src/server.ts"
@@ -37,6 +40,12 @@
           },
           "configurations": {
             "production": {
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
               "budgets": [
                 {
                   "type": "initial",
@@ -49,30 +58,118 @@
                   "maximumError": "8kB"
                 }
               ],
-              "outputHashing": "all"
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true
+            },
+            "staging": {
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.staging.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true
             },
             "development": {
               "optimization": false,
               "extractLicenses": false,
-              "sourceMap": true
+              "sourceMap": true,
+              "namedChunks": false,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.development.ts"
+                }
+              ]
             }
           },
           "defaultConfiguration": "production"
         },
+        "server": {
+          "builder": "@angular-devkit/build-angular:server",
+          "options": {
+            "outputPath": "dist/straweb-portfolio/server",
+            "main": "src/main.server.ts",
+            "tsConfig": "tsconfig.server.json"
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ]
+            }
+          }
+        },
+        "serve-ssr": {
+          "builder": "@nguniversal/builders:ssr-dev-server",
+          "options": {
+            "browserTarget": "straweb-portfolio:build",
+            "serverTarget": "straweb-portfolio:server"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "straweb-portfolio:build:production",
+              "serverTarget": "straweb-portfolio:server:production"
+            }
+          }
+        },
+        "prerender": {
+          "builder": "@nguniversal/builders:prerender",
+          "options": {
+            "browserTarget": "straweb-portfolio:build:production",
+            "serverTarget": "straweb-portfolio:server:production",
+            "routes": [
+              "/"
+            ]
+          },
+          "configurations": {
+            "production": {}
+          }
+        },
         "serve": {
           "builder": "@angular/build:dev-server",
           "configurations": {
+            "ssr": {
+              "buildTarget": "straweb-portfolio:build:production"
+            },
             "production": {
               "buildTarget": "straweb-portfolio:build:production"
             },
+            "prod": {
+              "buildTarget": "straweb-portfolio:build:prod"
+            },
             "development": {
               "buildTarget": "straweb-portfolio:build:development"
+            },
+            "pilot": {
+              "buildTarget": "my-angular-app:build:pilot"
+            },
+            "staging": {
+              "buildTarget": "my-angular-app:build:staging"
+            },
+            "uat": {
+              "buildTarget": "my-angular-app:build:uat"
             }
           },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
-          "builder": "@angular/build:extract-i18n"
+          "builder": "@angular/build:extract-i18n",
+          "options": {
+            "buildTarget": "project:build"
+          }
         },
         "test": {
           "builder": "@angular/build:karma",
@@ -85,12 +182,64 @@
                 "input": "public"
               }
             ],
+            "scripts": [],
             "styles": [
               "src/styles.scss"
             ]
           }
+        },
+        "cypress-run": {
+          "builder": "@cypress/schematic:cypress",
+          "options": {
+            "devServerTarget": "straweb-portfolio:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "straweb-portfolio:serve:production"
+            }
+          }
+        },
+        "cypress-open": {
+          "builder": "@cypress/schematic:cypress",
+          "options": {
+            "watch": true,
+            "headless": false
+          }
+        },
+        "ct": {
+          "builder": "@cypress/schematic:cypress",
+          "options": {
+            "devServerTarget": "straweb-portfolio:serve",
+            "watch": true,
+            "headless": false,
+            "testingType": "component"
+          },
+          "configurations": {
+            "development": {
+              "devServerTarget": "straweb-portfolio:serve:development"
+            }
+          }
+        },
+        "e2e": {
+          "builder": "@cypress/schematic:cypress",
+          "options": {
+            "devServerTarget": "straweb-portfolio:serve",
+            "watch": true,
+            "headless": false
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "straweb-portfolio:serve:production"
+            }
+          }
         }
       }
     }
+  },
+  "cli": {
+    "schematicCollections": [
+      "@cypress/schematic",
+      "@schematics/angular"
+    ]
   }
 }
